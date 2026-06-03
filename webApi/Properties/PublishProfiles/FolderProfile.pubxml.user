@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\djc\backend\webApi\webApi\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2026-06-03T07:34:02.7491476Z||;True|2026-03-10T14:46:03.7102826+08:00||;True|2026-03-10T14:15:04.8963123+08:00||;True|2026-03-10T11:50:21.1601605+08:00||;False|2026-03-10T11:40:02.6718437+08:00||;False|2026-03-10T11:38:06.2117079+08:00||;False|2026-03-10T11:36:57.0943075+08:00||;False|2026-03-10T11:33:11.7915530+08:00||;True|2026-03-10T10:25:49.3721511+08:00||;True|2026-03-10T10:07:08.8842572+08:00||;True|2026-03-10T09:47:53.1165428+08:00||;True|2026-03-06T23:02:58.6873402+08:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

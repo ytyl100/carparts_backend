@@ -1,0 +1,1004 @@
+{
+  "SubCategory": [
+    {
+      "id": "dolphin_fb",
+      "name": "前保险杠及附件 Front bumper and accessories",
+      "code": "8101(0001)",
+      "parentId": "BYD7004BEV13",
+      "image": "/dolphin/page_38_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "dolphin_rb",
+      "name": "后保险杠及附件 Rear bumper and accessories",
+      "code": "8201(0001)",
+      "parentId": "BYD7004BEV13",
+      "image": "/dolphin/page_38_img_2.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "dolphin_el",
+      "name": "车外灯饰 Exterior lighting fixtures",
+      "code": "8401(0001)",
+      "parentId": "BYD7004BEV13",
+      "image": "/dolphin/page_39_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "dolphin_cc",
+      "name": "底盘件 Chassis components",
+      "code": "8105(0001)",
+      "parentId": "BYD7004BEV13",
+      "image": "/dolphin/page_40_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "dolphin_va",
+      "name": "车身及附件 Vehicle body and accessories",
+      "code": "8105(0001)",
+      "parentId": "BYD7004BEV13",
+      "image": "/dolphin/page_42_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "han_fb",
+      "name": "前保险杠及附件 Front bumper and accessories",
+      "code": "8101(0001)",
+      "parentId": "BYD7009BEV",
+      "image": "/han_ev/page_9_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "han_rb",
+      "name": "后保险杠及附件 Rear bumper and accessories",
+      "code": "8201(0001)",
+      "parentId": "BYD7009BEV",
+      "image": "/han_ev/page_11_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "han_el",
+      "name": "车外灯饰 Exterior lighting fixtures",
+      "code": "8401(0001)",
+      "parentId": "BYD7009BEV",
+      "image": "/han_ev/page_11_img_2.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "han_cc",
+      "name": "底盘件 Chassis components",
+      "code": "8105(0001)",
+      "parentId": "BYD7009BEV",
+      "image": "/han_ev/page_12_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "han_va",
+      "name": "车身及附件 Vehicle body and accessories",
+      "code": "8105(0001)",
+      "parentId": "BYD7009BEV",
+      "image": "/han_ev/page_15_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "qin_fb",
+      "name": "前保险杠及附件 Front bumper and accessories",
+      "code": "8101(0001)",
+      "parentId": "秦PLUS-DM-i",
+      "image": "/qin_plus_ev/page_24_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "qin_rb",
+      "name": "后保险杠及附件 Rear bumper and accessories",
+      "code": "8201(0001)",
+      "parentId": "秦PLUS-DM-i",
+      "image": "/qin_plus_ev/page_26_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "qin_el",
+      "name": "车外灯饰 Exterior lighting fixtures",
+      "code": "8401(0001)",
+      "parentId": "秦PLUS-DM-i",
+      "image": "/qin_plus_ev/page_27_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "qin_cc",
+      "name": "底盘件 Chassis components",
+      "code": "8105(0001)",
+      "parentId": "秦PLUS-DM-i",
+      "image": "/qin_plus_ev/page_27_img_2.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "qin_va",
+      "name": "车身及附件 Vehicle body and accessories",
+      "code": "8105(0001)",
+      "parentId": "秦PLUS-DM-i",
+      "image": "/qin_plus_ev/page_29_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "sea_fb",
+      "name": "前保险杠及附件 Front bumper and accessories",
+      "code": "8101(0001)",
+      "parentId": "BYD7001BEVA1",
+      "image": "/seagull/page_31_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "sea_rb",
+      "name": "后保险杠及附件 Rear bumper and accessories",
+      "code": "8201(0001)",
+      "parentId": "m4_ABYD7001BEVA1CA33",
+      "image": "/seagull/page_32_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "sea_el",
+      "name": "车外灯饰 Exterior lighting fixtures",
+      "code": "8401(0001)",
+      "parentId": "BYD7001BEVA1",
+      "image": "/seagull/page_32_img_2.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "sea_cc",
+      "name": "底盘件 Chassis components",
+      "code": "8105(0001)",
+      "parentId": "BYD7001BEVA1",
+      "image": "/seagull/page_33_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "sea_va",
+      "name": "车身及附件 Vehicle body and accessories",
+      "code": "8105(0001)",
+      "parentId": "BYD7001BEVA1",
+      "image": "/seagull/page_35_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "seal_fb",
+      "name": "前保险杠及附件 Front bumper and accessories",
+      "code": "8101(0001)",
+      "parentId": "BYD472QC",
+      "image": "/seal/page_44_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "seal_rb",
+      "name": "后保险杠及附件 Rear bumper and accessories",
+      "code": "8201(0001)",
+      "parentId": "BYD472QC",
+      "image": "/seal/page_45_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "seal_el",
+      "name": "车外灯饰 Exterior lighting fixtures",
+      "code": "8401(0001)",
+      "parentId": "BYD472QC",
+      "image": "/seal/page_45_img_2.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "seal_cc",
+      "name": "底盘件 Chassis components",
+      "code": "8105(0001)",
+      "parentId": "BYD472QC",
+      "image": "/seal/page_46_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "seal_va",
+      "name": "车身及附件 Vehicle body and accessories",
+      "code": "8105(0001)",
+      "parentId": "BYD472QC",
+      "image": "/seal/page_47_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "song_fb",
+      "name": "前保险杠及附件 Front bumper and accessories",
+      "code": "8101(0001)",
+      "parentId": "TZ200XYM",
+      "image": "/song_plus_ev/page_17_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "song_rb",
+      "name": "后保险杠及附件 Rear bumper and accessories",
+      "code": "8201(0001)",
+      "parentId": "TZ200XYM",
+      "image": "/song_plus_ev/page_18_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "song_el",
+      "name": "车外灯饰 Exterior lighting fixtures",
+      "code": "8401(0001)",
+      "parentId": "TZ200XYM",
+      "image": "/song_plus_ev/page_19_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "song_cc",
+      "name": "底盘件 Chassis components",
+      "code": "8105(0001)",
+      "parentId": "TZ200XYM",
+      "image": "/song_plus_ev/page_19_img_2.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "song_va",
+      "name": "车身及附件 Vehicle body and accessories",
+      "code": "8105(0001)",
+      "parentId": "TZ200XYM",
+      "image": "/song_plus_ev/page_22_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "yuan_fb_2022",
+      "name": "前保险杠及附件 Front bumper and accessories",
+      "code": "8101(0001)",
+      "parentId": "BYD7003BEVA3",
+      "image": "/yuan_plus/page_1_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "yuan_rb_2022",
+      "name": "后保险杠及附件 Rear bumper and accessories",
+      "code": "8201(0001)",
+      "parentId": "BYD7003BEVA3",
+      "image": "/yuan_plus/page_2_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "yuan_el_2022",
+      "name": "车外灯饰 Exterior lighting fixtures",
+      "code": "8401(0001)",
+      "parentId": "BYD7003BEVA3",
+      "image": "/yuan_plus/page_3_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "yuan_cc_2022",
+      "name": "底盘件 Chassis components",
+      "code": "8105(0001)",
+      "parentId": "BYD7003BEVA3",
+      "image": "/yuan_plus/page_4_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "yuan_va_2022",
+      "name": "车身及附件 Vehicle body and accessories",
+      "code": "8105(0001)",
+      "parentId": "BYD7003BEVA3",
+      "image": "/yuan_plus/page_7_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "changan_cs35_plus1",
+      "name": "前保险杠及附件 Front bumper and accessories",
+      "code": "8101(0001)",
+      "parentId": "JL478QEP",
+      "image": "",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "changan_cs35_plus2",
+      "name": "后保险杠及附件 Rear bumper and accessories",
+      "code": "8201(0001)",
+      "parentId": "JL478QEP",
+      "image": "",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "changan_cs35_plus3",
+      "name": "车外灯饰 Exterior lighting fixtures",
+      "code": "8401(0001)",
+      "parentId": "JL478QEP",
+      "image": "",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "changan_cs35_plus4",
+      "name": "车身及附件 Vehicle body and accessories",
+      "code": "8105(0001)",
+      "parentId": "JL478QEP",
+      "image": "",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "changan-uni-k1",
+      "name": "前保险杠及附件 Front bumper and accessories",
+      "code": "8101(0001)",
+      "parentId": "JL473ZQ6",
+      "image": "/Changan Uni-K/page_1_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "changan-uni-k2",
+      "name": "后保险杠及附件 Rear bumper and accessories",
+      "code": "8201(0001)",
+      "parentId": "JL473ZQ6",
+      "image": "/Changan Uni-K/page_1_img_2.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "changan-uni-k3",
+      "name": "车外灯饰 Exterior lighting fixtures",
+      "code": "8401(0001)",
+      "parentId": "JL473ZQ6",
+      "image": "/Changan Uni-K/page_1_img_3.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "Changan Uni-K4",
+      "name": "车身及附件 Vehicle body and accessories",
+      "code": "8105(0001)",
+      "parentId": "JL473ZQ6",
+      "image": "/Changan Uni-K/page_1_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "changan-uni-t1",
+      "name": "前保险杠及附件 Front bumper and accessories",
+      "code": "8101(0001)",
+      "parentId": "JL473ZQ5",
+      "image": "/Changan Uni-T/page_6_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "changan-uni-t2",
+      "name": "后保险杠及附件 Rear bumper and accessories",
+      "code": "8201(0001)",
+      "parentId": "JL473ZQ5",
+      "image": "/Changan Uni-T/page_6_img_2.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "changan-uni-t3",
+      "name": "车外灯饰 Exterior lighting fixtures",
+      "code": "8401(0001)",
+      "parentId": "JL473ZQ5",
+      "image": "/Changan Uni-T/page_6_img_3.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "changan-uni-t4",
+      "name": "车身及附件 Vehicle body and accessories",
+      "code": "8105(0001)",
+      "parentId": "JL473ZQ5",
+      "image": "/Changan Uni-T/page_6_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "changan-uni-v1",
+      "name": "前保险杠及附件 Front bumper and accessories",
+      "code": "8101(0001)",
+      "parentId": "JL473ZQ7",
+      "image": "/Changan Uni-T/page_6_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "changan-uni-v2",
+      "name": "后保险杠及附件 Rear bumper and accessories",
+      "code": "8201(0001)",
+      "parentId": "JL473ZQ7",
+      "image": "/Changan Uni-T/page_6_img_2.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "changan-uni-v3",
+      "name": "车外灯饰 Exterior lighting fixtures",
+      "code": "8401(0001)",
+      "parentId": "JL473ZQ7",
+      "image": "/Changan Uni-T/page_6_img_3.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "changan-uni-v4",
+      "name": "车身及附件 Vehicle body and accessories",
+      "code": "8105(0001)",
+      "parentId": "JL473ZQ7",
+      "image": "/Changan Uni-T/page_6_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-haval-Jolin01",
+      "name": "前保险杠及附件 Front bumper and accessories",
+      "code": "8101(0001)",
+      "parentId": "GW4G15K",
+      "image": "/haval_jolion/page_1_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-haval-Jolin02",
+      "name": "后保险杠及附件 Rear bumper and accessories",
+      "code": "8201(0001)",
+      "parentId": "GW4G15K",
+      "image": "/haval_jolion/page_2_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-haval-Jolin03",
+      "name": "车外灯饰 Exterior lighting fixtures",
+      "code": "8401(0001)",
+      "parentId": "GW4G15K",
+      "image": "/haval_jolion/page_4_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-haval-Jolin04",
+      "name": "车身及附件 Vehicle body and accessories",
+      "code": "8501(0001)",
+      "parentId": "GW4G15K",
+      "image": "/haval_jolion/page_4_img_2.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-haval-Jolin05",
+      "name": "底盘系统 Chassis components",
+      "code": "8601(0001)",
+      "parentId": "GW4G15K",
+      "image": "/haval_jolion/page_7_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-haval-Jolin06",
+      "name": "发动机系统 Engine system",
+      "code": "8701(0001)",
+      "parentId": "GW4G15K",
+      "image": "/haval_jolion/page_10_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-haval-Jolin07",
+      "name": "安全及电气系统 Safety & Electrical system",
+      "code": "8801(0001)",
+      "parentId": "GW4G15K",
+      "image": "/haval_jolion/page_13_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-haval-dargro-01",
+      "name": "前后保险杠及附件 Front and rear bumpers and accessories",
+      "code": "8101(0001)",
+      "parentId": "GW4N20",
+      "image": "/haval_dargro/page_45_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-haval-dargro-02",
+      "name": "照明系统 Lighting System",
+      "code": "8401(0001)",
+      "parentId": "GW4N20",
+      "image": "/haval_dargro/page_46_img_7.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-haval-dargro-03",
+      "name": "车身及附件 Vehicle body and accessories",
+      "code": "8501(0001)",
+      "parentId": "GW4N20",
+      "image": "/haval_dargro/page_47_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-haval-dargro-04",
+      "name": "底盘系统 Chassis system",
+      "code": "8601(0001)",
+      "parentId": "GW4N20",
+      "image": "/haval_dargro/page_48_img_14.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-haval-dargro-05",
+      "name": "发动机系统 Engine system",
+      "code": "8701(0001)",
+      "parentId": "GW4N20",
+      "image": "/haval_dargro/page_50_img_14.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-haval-dargro-06",
+      "name": "安全及电气系统 Safety & Electrical system",
+      "code": "8801(0001)",
+      "parentId": "GW4N20",
+      "image": "/haval_dargro/page_51_img_3.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-haval-H2-01",
+      "name": "前后保险杠及附件 Front and rear bumpers and accessories",
+      "code": "8101(0001)",
+      "parentId": "GW4G15F",
+      "image": "/haval_h2/page_24_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-haval-H2-02",
+      "name": "照明系统 Lighting System",
+      "code": "8401(0001)",
+      "parentId": "GW4G15F",
+      "image": "/haval_h2/page_24_img_3.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-haval-H2-03",
+      "name": "车身及附件 Vehicle body and accessories",
+      "code": "8501(0001)",
+      "parentId": "GW4G15F",
+      "image": "/haval_h2/page_24_img_13.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-haval-H2-04",
+      "name": "底盘系统 Chassis system",
+      "code": "8601(0001)",
+      "parentId": "GW4G15F",
+      "image": "/haval_h2/page_27_img_5.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-haval-H2-05",
+      "name": "发动机系统 Engine system",
+      "code": "8701(0001)",
+      "parentId": "GW4G15F",
+      "image": "/haval_h2/page_26_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-haval-H9-01",
+      "name": "前后保险杠及附件 Front and rear bumpers and accessories",
+      "code": "8101(0001)",
+      "parentId": "GW4C20B",
+      "image": "/haval_h9/page_30_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-haval-H9-02",
+      "name": "照明系统 Lighting System",
+      "code": "8401(0001)",
+      "parentId": "GW4C20B",
+      "image": "/haval_h9/page_30_img_7.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-haval-H9-03",
+      "name": "车身及附件 Vehicle body and accessories",
+      "code": "8501(0001)",
+      "parentId": "GW4C20B",
+      "image": "/haval_h9/page_31_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-haval-H9-04",
+      "name": "底盘系统 Chassis system",
+      "code": "8601(0001)",
+      "parentId": "GW4C20B",
+      "image": "/haval_h9/page_33_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-haval-H9-05",
+      "name": "发动机系统 Engine system",
+      "code": "8701(0001)",
+      "parentId": "GW4C20B",
+      "image": "/haval_h9/page_33_img_10.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-haval-H9-06",
+      "name": "空调及电气系统 Air conditioning & Electrical system",
+      "code": "8801(0001)",
+      "parentId": "GW4C20B",
+      "image": "/haval_h9/page_33_img_8.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-haval-M6-01",
+      "name": "前后保险杠及附件 Front and rear bumpers and accessories",
+      "code": "8101(0001)",
+      "parentId": "GW4G15M",
+      "image": "/haval_m6/page_37_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-haval-M6-02",
+      "name": "照明系统 Lighting System",
+      "code": "8401(0001)",
+      "parentId": "GW4G15M",
+      "image": "/haval_m6/page_38_img_6.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-haval-M6-03",
+      "name": "车身及附件 Vehicle body and accessories",
+      "code": "8501(0001)",
+      "parentId": "GW4G15M",
+      "image": "/haval_m6/page_39_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-haval-M6-04",
+      "name": "底盘系统 Chassis system",
+      "code": "8601(0001)",
+      "parentId": "GW4G15M",
+      "image": "/haval_m6/page_41_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-haval-M6-05",
+      "name": "发动机系统 Engine system",
+      "code": "8701(0001)",
+      "parentId": "GW4G15M",
+      "image": "/haval_m6/page_42_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-steed-w5-01",
+      "name": "前后保险杠及附件 Front and rear bumpers and accessories",
+      "code": "8101(0001)",
+      "parentId": "GW4D20M",
+      "image": "/steed_w5/page_74_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-steed-w5-02",
+      "name": "照明系统 Lighting System",
+      "code": "8401(0001)",
+      "parentId": "GW4D20M",
+      "image": "/steed_w5/page_75_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-steed-w5-03",
+      "name": "车身及附件 Vehicle body and accessories",
+      "code": "8501(0001)",
+      "parentId": "GW4D20M",
+      "image": "/steed_w5/page_76_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-steed-w5-04",
+      "name": "底盘系统 Chassis system",
+      "code": "8601(0001)",
+      "parentId": "GW4D20M",
+      "image": "/steed_w5/page_77_img_4.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-steed-w7-01",
+      "name": "前后保险杠及附件 Front and rear bumpers and accessories",
+      "code": "8101(0001)",
+      "parentId": "GW4D20M",
+      "image": "/steed_w7/page_81_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-steed-w7-02",
+      "name": "照明系统 Lighting System",
+      "code": "8401(0001)",
+      "parentId": "GW4D20M",
+      "image": "/steed_w7/page_82_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-steed-w7-03",
+      "name": "车身及附件 Vehicle body and accessories",
+      "code": "8501(0001)",
+      "parentId": "GW4D20M",
+      "image": "/steed_w7/page_82_img_10.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-steed-w7-04",
+      "name": "底盘系统 Chassis system",
+      "code": "8601(0001)",
+      "parentId": "GW4D20M",
+      "image": "/steed_w7/page_84_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-tank300-01",
+      "name": "前后保险杠及附件 Front and rear bumpers and accessories",
+      "code": "8101(0001)",
+      "parentId": "E20CB",
+      "image": "/tank300/page_54_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-tank300-02",
+      "name": "照明系统 Lighting System",
+      "code": "8401(0001)",
+      "parentId": "E20CB",
+      "image": "/tank300/page_55_img_6.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-tank300-03",
+      "name": "车身及附件 Vehicle body and accessories",
+      "code": "8501(0001)",
+      "parentId": "E20CB",
+      "image": "/tank300/page_55_img_12.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-tank300-04",
+      "name": "底盘系统 Chassis system",
+      "code": "8601(0001)",
+      "parentId": "E20CB",
+      "image": "/tank300/page_59_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-tank300-05",
+      "name": "发动机系统 Engine system",
+      "code": "8701(0001)",
+      "parentId": "E20CB",
+      "image": "/tank300/page_61_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-tank300-06",
+      "name": "安全及电气系统 Safety & Electrical system",
+      "code": "8801(0001)",
+      "parentId": "E20CB",
+      "image": "/tank300/page_60_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-tank500-01",
+      "name": "前后保险杠及附件 Front and rear bumpers and accessories",
+      "code": "8101(0001)",
+      "parentId": "E30Z",
+      "image": "/tank500/page_65_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-tank500-02",
+      "name": "照明系统 Lighting System",
+      "code": "8401(0001)",
+      "parentId": "E30Z",
+      "image": "/tank500/page_67_img_1.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-tank500-03",
+      "name": "车身及附件 Vehicle body and accessories",
+      "code": "8501(0001)",
+      "parentId": "E30Z",
+      "image": "/tank500/page_67_img_9.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-tank500-04",
+      "name": "底盘系统 Chassis system",
+      "code": "8601(0001)",
+      "parentId": "E30Z",
+      "image": "/tank500/page_69_img_4.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-tank500-05",
+      "name": "发动机系统 Engine system",
+      "code": "8701(0001)",
+      "parentId": "E30Z",
+      "image": "/tank500/page_69_img_33.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "GWM-tank500-06",
+      "name": "安全及电气系统 Safety & Electrical system",
+      "code": "8801(0001)",
+      "parentId": "E30Z",
+      "image": "/tank500/page_69_img_34.png",
+      "isDefault": false,
+      "createdDate": "2025-01-01T00:00:00Z",
+      "lastUpdated": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

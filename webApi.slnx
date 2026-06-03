@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CarDrivers/ChargingStationManagement.API.csproj" Id="b29c3b61-244b-448e-8b22-9650f12d26c1" />
+  <Project Path="ChargingStationManagement.Application/ChargingStationManagement.Services.csproj" Id="c1fe44ce-1106-4d08-9776-fa3857abd353" />
+  <Project Path="ChargingStationManagement.Data/ChargingStationManagement.Data.csproj" Id="980e2ef0-fc9e-404d-99dd-b4b908febff2" />
+  <Project Path="webApi/CarPartsInventory.csproj" />
+</Solution>

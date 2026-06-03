@@ -1,0 +1,3280 @@
+{
+  "MainCategory": [
+    {
+      "id": "m1_ACA33",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "ACA33",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_ACA33",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "ACA33",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_ACA33",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "ACA33",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_ACA33",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "ACA33",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_ACA37",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "ACA37",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_ACA37",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "ACA37",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_ACA37",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "ACA37",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_ACA37",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "ACA37",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_ACA38",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "ACA38",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_ACA38",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "ACA38",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_ACA38",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "ACA38",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_ACA38",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "ACA38",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_GSA33",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "GSA33",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_GSA33",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "GSA33",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_GSA33",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "GSA33",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_GSA33",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "GSA33",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_GSA38",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "GSA38",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_GSA38",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "GSA38",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_GSA38",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "GSA38",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_GSA38",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "GSA38",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_ASU40",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "ASU40",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_ASU40",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "ASU40",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_ASU40",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "ASU40",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_ASU40",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "ASU40",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_GSU45",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "GSU45",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_GSU45",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "GSU45",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_GSU45",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "GSU45",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_GSU45",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "GSU45",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_ZSA42",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "ZSA42",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_ZSA42",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "ZSA42",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_ZSA42",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "ZSA42",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_ZSA42",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "ZSA42",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_ZSA44",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "ZSA44",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_ZSA44",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "ZSA44",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_ZSA44",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "ZSA44",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_ZSA44",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "ZSA44",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_MXAA52",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "MXAA52",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_MXAA52",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "MXAA52",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_MXAA52",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "MXAA52",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_MXAA52",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "MXAA52",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_MXAA54",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "MXAA54",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_MXAA54",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "MXAA54",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_MXAA54",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "MXAA54",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_MXAA54",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "MXAA54",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_AXAH52",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "AXAH52",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_AXAH52",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "AXAH52",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_AXAH52",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "AXAH52",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_AXAH52",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "AXAH52",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_ZRE152",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "ZRE152",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_ZRE152",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "ZRE152",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_ZRE152",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "ZRE152",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_ZRE152",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "ZRE152",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_ZRE153",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "ZRE153",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_ZRE153",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "ZRE153",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_ZRE153",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "ZRE153",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_ZRE153",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "ZRE153",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_ZRE181",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "ZRE181",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_ZRE181",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "ZRE181",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_ZRE181",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "ZRE181",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_ZRE181",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "ZRE181",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_ZRE182",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "ZRE182",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_ZRE182",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "ZRE182",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_ZRE182",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "ZRE182",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_ZRE182",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "ZRE182",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_ZWE211",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "ZWE211",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_ZWE211",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "ZWE211",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_ZWE211",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "ZWE211",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_ZWE211",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "ZWE211",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_MZEA11",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "MZEA11",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_MZEA11",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "MZEA11",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_MZEA11",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "MZEA11",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_MZEA11",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "MZEA11",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_KSP130",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "KSP130",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_KSP130",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "KSP130",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_KSP130",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "KSP130",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_KSP130",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "KSP130",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_NLP130",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "NLP130",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_NLP130",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "NLP130",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_NLP130",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "NLP130",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_NLP130",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "NLP130",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_NSP130",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "NSP130",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_NSP130",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "NSP130",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_NSP130",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "NSP130",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_NSP130",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "NSP130",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_NCP131",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "NCP131",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_NCP131",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "NCP131",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_NCP131",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "NCP131",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_NCP131",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "NCP131",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_KGB10",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "KGB10",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_KGB10",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "KGB10",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_KGB10",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "KGB10",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_KGB10",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "KGB10",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_KGB40",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "KGB40",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_KGB40",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "KGB40",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_KGB40",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "KGB40",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_KGB40",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "KGB40",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_ACA33W",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "ACA33W",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_ACA33W",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "ACA33W",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_ACA33W",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "ACA33W",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_ACA33W",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "ACA33W",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_ACA38W",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "ACA38W",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_ACA38W",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "ACA38W",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_ACA38W",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "ACA38W",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_ACA38W",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "ACA38W",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_ANH20",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "ANH20",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_ANH20",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "ANH20",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_ANH20",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "ANH20",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_ANH20",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "ANH20",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_GGH20",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "GGH20",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_GGH20",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "GGH20",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_GGH20",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "GGH20",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_GGH20",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "GGH20",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_AGH30",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "AGH30",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_AGH30",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "AGH30",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_AGH30",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "AGH30",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_AGH30",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "AGH30",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_GGH30",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "GGH30",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_GGH30",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "GGH30",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_GGH30",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "GGH30",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_GGH30",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "GGH30",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_GRN305",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "GRN305",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_GRN305",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "GRN305",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_GRN305",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "GRN305",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_GRN305",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "GRN305",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_GRN310",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "GRN310",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_GRN310",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "GRN310",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_GRN310",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "GRN310",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_GRN310",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "GRN310",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_TRN245",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "TRN245",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_TRN245",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "TRN245",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_TRN245",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "TRN245",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_TRN245",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "TRN245",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_ZWA10",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "ZWA10",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_ZWA10",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "ZWA10",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_ZWA10",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "ZWA10",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_ZWA10",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "ZWA10",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_AVV60",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "AVV60",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_AVV60",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "AVV60",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_AVV60",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "AVV60",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_AVV60",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "AVV60",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_AXZH10",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "AXZH10",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_AXZH10",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "AXZH10",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_AXZH10",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "AXZH10",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_AXZH10",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "AXZH10",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_VXFA50",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "VXFA50",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_VXFA50",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "VXFA50",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_VXFA50",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "VXFA50",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_VXFA50",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "VXFA50",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_VXFA55",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "VXFA55",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_VXFA55",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "VXFA55",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_VXFA55",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "VXFA55",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_VXFA55",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "VXFA55",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_L32L",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "L32L",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_L32L",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "L32L",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_L32L",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "L32L",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_L32L",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "L32L",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_CL32",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "CL32",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_CL32",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "CL32",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_CL32",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "CL32",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_CL32",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "CL32",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_R32R",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "R32R",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_R32R",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "R32R",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_R32R",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "R32R",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_R32R",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "R32R",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_CV1",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "CV1",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_CV1",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "CV1",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_CV1",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "CV1",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_CV1",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "CV1",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_CV2",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "CV2",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_CV2",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "CV2",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_CV2",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "CV2",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_CV2",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "CV2",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_CV3",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "CV3",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_CV3",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "CV3",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_CV3",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "CV3",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_CV3",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "CV3",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_FE1",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "FE1",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_FE1",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "FE1",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_FE1",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "FE1",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_FE1",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "FE1",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_FE2",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "FE2",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_FE2",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "FE2",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_FE2",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "FE2",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_FE2",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "FE2",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_FL1",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "FL1",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_FL1",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "FL1",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_FL1",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "FL1",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_FL1",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "FL1",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_RW1",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "RW1",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_RW1",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "RW1",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_RW1",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "RW1",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_RW1",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "RW1",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_RW2",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "RW2",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_RW2",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "RW2",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_RW2",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "RW2",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_RW2",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "RW2",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_RT5",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "RT5",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_RT5",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "RT5",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_RT5",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "RT5",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_RT5",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "RT5",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_RT6",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "RT6",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_RT6",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "RT6",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_RT6",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "RT6",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_RT6",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "RT6",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_BYD7009BEV",
+      "name": "高压电池/电机/电控",
+      "icon": "fa-battery-full",
+      "vehicleCode": "BYD7009BEV",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_BYD7009BEV",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "BYD7009BEV",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_BYD7009BEV",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "BYD7009BEV",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_BYD7009BEV",
+      "name": "辅助电气/多媒体",
+      "icon": "fa-bolt",
+      "vehicleCode": "BYD7009BEV",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_BYD7009BEV1",
+      "name": "高压电池/电机/电控",
+      "icon": "fa-battery-full",
+      "vehicleCode": "BYD7009BEV1",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_BYD7009BEV1",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "BYD7009BEV1",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_BYD7009BEV1",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "BYD7009BEV1",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_BYD7009BEV1",
+      "name": "辅助电气/多媒体",
+      "icon": "fa-bolt",
+      "vehicleCode": "BYD7009BEV1",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_BYD7009BEV2",
+      "name": "高压电池/电机/电控",
+      "icon": "fa-battery-full",
+      "vehicleCode": "BYD7009BEV2",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_BYD7009BEV2",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "BYD7009BEV2",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_BYD7009BEV2",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "BYD7009BEV2",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_BYD7009BEV2",
+      "name": "辅助电气/多媒体",
+      "icon": "fa-bolt",
+      "vehicleCode": "BYD7009BEV2",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_BYD7009BEV-D1",
+      "name": "高压电池/电机/电控",
+      "icon": "fa-battery-full",
+      "vehicleCode": "BYD7009BEV-D1",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_BYD7009BEV-D1",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "BYD7009BEV-D1",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_BYD7009BEV-D1",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "BYD7009BEV-D1",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_BYD7009BEV-D1",
+      "name": "辅助电气/多媒体",
+      "icon": "fa-bolt",
+      "vehicleCode": "BYD7009BEV-D1",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_唐DM-2.0T",
+      "name": "高压电池/电机/电控",
+      "icon": "fa-battery-full",
+      "vehicleCode": "唐DM-2.0T",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_唐DM-2.0T",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "唐DM-2.0T",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_唐DM-2.0T",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "唐DM-2.0T",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_唐DM-2.0T",
+      "name": "辅助电气/多媒体",
+      "icon": "fa-bolt",
+      "vehicleCode": "唐DM-2.0T",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_唐DM-i",
+      "name": "高压电池/电机/电控",
+      "icon": "fa-battery-full",
+      "vehicleCode": "唐DM-i",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_唐DM-i",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "唐DM-i",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_唐DM-i",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "唐DM-i",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_唐DM-i",
+      "name": "辅助电气/多媒体",
+      "icon": "fa-bolt",
+      "vehicleCode": "唐DM-i",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_唐DM-p",
+      "name": "高压电池/电机/电控",
+      "icon": "fa-battery-full",
+      "vehicleCode": "唐DM-p",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_唐DM-p",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "唐DM-p",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_唐DM-p",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "唐DM-p",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_唐DM-p",
+      "name": "辅助电气/多媒体",
+      "icon": "fa-bolt",
+      "vehicleCode": "唐DM-p",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_秦PLUS-DM-i",
+      "name": "高压电池/电机/电控",
+      "icon": "fa-battery-full",
+      "vehicleCode": "秦PLUS-DM-i",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_秦PLUS-DM-i",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "秦PLUS-DM-i",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_秦PLUS-DM-i",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "秦PLUS-DM-i",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_秦PLUS-DM-i",
+      "name": "辅助电气/多媒体",
+      "icon": "fa-bolt",
+      "vehicleCode": "秦PLUS-DM-i",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_秦PLUS-EV",
+      "name": "高压电池/电机/电控",
+      "icon": "fa-battery-full",
+      "vehicleCode": "秦PLUS-EV",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_秦PLUS-EV",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "秦PLUS-EV",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_秦PLUS-EV",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "秦PLUS-EV",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_秦PLUS-EV",
+      "name": "辅助电气/多媒体",
+      "icon": "fa-bolt",
+      "vehicleCode": "秦PLUS-EV",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_BYD7003BEVA3",
+      "name": "高压电池/电机/电控",
+      "icon": "fa-battery-full",
+      "vehicleCode": "BYD7003BEVA3",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_BYD7003BEVA3",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "BYD7003BEVA3",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_BYD7003BEVA3",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "BYD7003BEVA3",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_BYD7003BEVA3",
+      "name": "辅助电气/多媒体",
+      "icon": "fa-bolt",
+      "vehicleCode": "BYD7003BEVA3",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_TZ200XSQ",
+      "name": "高压电池/电机/电控",
+      "icon": "fa-battery-full",
+      "vehicleCode": "TZ200XSQ",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_TZ200XSQ",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "TZ200XSQ",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_TZ200XSQ",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "TZ200XSQ",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_TZ200XSQ",
+      "name": "辅助电气/多媒体",
+      "icon": "fa-bolt",
+      "vehicleCode": "TZ200XSQ",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_TZ200XYM",
+      "name": "高压电池/电机/电控",
+      "icon": "fa-battery-full",
+      "vehicleCode": "TZ200XYM",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_TZ200XYM",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "TZ200XYM",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_TZ200XYM",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "TZ200XYM",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_TZ200XYM",
+      "name": "辅助电气/多媒体",
+      "icon": "fa-bolt",
+      "vehicleCode": "TZ200XYM",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_DE7PNE",
+      "name": "高压电池/电机/电控",
+      "icon": "fa-battery-full",
+      "vehicleCode": "DE7PNE",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_DE7PNE",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "DE7PNE",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_DE7PNE",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "DE7PNE",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_DE7PNE",
+      "name": "辅助电气/多媒体",
+      "icon": "fa-bolt",
+      "vehicleCode": "DE7PNE",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_BYD7001BEVA1",
+      "name": "高压电池/电机/电控",
+      "icon": "fa-battery-full",
+      "vehicleCode": "BYD7001BEVA1",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_BYD7001BEVA1",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "BYD7001BEVA1",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_BYD7001BEVA1",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "BYD7001BEVA1",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_BYD7001BEVA1",
+      "name": "辅助电气/多媒体",
+      "icon": "fa-bolt",
+      "vehicleCode": "BYD7001BEVA1",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_WBX9BP",
+      "name": "高压电池/电机/电控",
+      "icon": "fa-battery-full",
+      "vehicleCode": "WBX9BP",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_WBX9BP",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "WBX9BP",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_WBX9BP",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "WBX9BP",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_WBX9BP",
+      "name": "辅助电气/多媒体",
+      "icon": "fa-bolt",
+      "vehicleCode": "WBX9BP",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_BYD7004BEV13",
+      "name": "高压电池/电机/电控",
+      "icon": "fa-battery-full",
+      "vehicleCode": "BYD7004BEV13",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_BYD7004BEV13",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "BYD7004BEV13",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_BYD7004BEV13",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "BYD7004BEV13",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_BYD7004BEV13",
+      "name": "辅助电气/多媒体",
+      "icon": "fa-bolt",
+      "vehicleCode": "BYD7004BEV13",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_BYD472QC",
+      "name": "高压电池/电机/电控",
+      "icon": "fa-battery-full",
+      "vehicleCode": "BYD472QC",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_BYD472QC",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "BYD472QC",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_BYD472QC",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "BYD472QC",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_BYD472QC",
+      "name": "辅助电气/多媒体",
+      "icon": "fa-bolt",
+      "vehicleCode": "BYD472QC",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_79QWVA",
+      "name": "高压电池/电机/电控",
+      "icon": "fa-battery-full",
+      "vehicleCode": "79QWVA",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_79QWVA",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "79QWVA",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_79QWVA",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "79QWVA",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_79QWVA",
+      "name": "辅助电气/多媒体",
+      "icon": "fa-bolt",
+      "vehicleCode": "79QWVA",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_JL473ZQ6",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "JL473ZQ6",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_JL473ZQ6",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "JL473ZQ6",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_JL473ZQ6",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "JL473ZQ6",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_JL473ZQ6",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "JL473ZQ6",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_JL473ZQ5",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "JL473ZQ5",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_JL473ZQ5",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "JL473ZQ5",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_JL473ZQ5",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "JL473ZQ5",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_JL473ZQ5",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "JL473ZQ5",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_JL473ZQ7",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "JL473ZQ7",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_JL473ZQ7",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "JL473ZQ7",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_JL473ZQ7",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "JL473ZQ7",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_JL473ZQ7",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "JL473ZQ7",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_JL478QEP",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "JL478QEP",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_JL478QEP",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "JL478QEP",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_JL478QEP",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "JL478QEP",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_JL478QEP",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "JL478QEP",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_JL473ZQ3",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "JL473ZQ3",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_JL473ZQ3",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "JL473ZQ3",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_JL473ZQ3",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "JL473ZQ3",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_JL473ZQ3",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "JL473ZQ3",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_JL473ZQ2",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "JL473ZQ2",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_JL473ZQ2",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "JL473ZQ2",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_JL473ZQ2",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "JL473ZQ2",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_JL473ZQ2",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "JL473ZQ2",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_JL486ZQ4",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "JL486ZQ4",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_JL486ZQ4",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "JL486ZQ4",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_JL486ZQ4",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "JL486ZQ4",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_JL486ZQ4",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "JL486ZQ4",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_F70-2.4T",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "F70-2.4T",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_F70-2.4T",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "F70-2.4T",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_F70-2.4T",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "F70-2.4T",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_F70-2.4T",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "F70-2.4T",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_F70-2.5T",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "F70-2.5T",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_F70-2.5T",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "F70-2.5T",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_F70-2.5T",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "F70-2.5T",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_F70-2.5T",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "F70-2.5T",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_GW4G15K",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "GW4G15K",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_GW4G15K",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "GW4G15K",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_GW4G15K",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "GW4G15K",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_GW4G15K",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "GW4G15K",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_GW4B15C",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "GW4B15C",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_GW4B15C",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "GW4B15C",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_GW4B15C",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "GW4B15C",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_GW4B15C",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "GW4B15C",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_GW4N20",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "GW4N20",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_GW4N20",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "GW4N20",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_GW4N20",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "GW4N20",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_GW4N20",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "GW4N20",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_GW4B15L",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "GW4B15L",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_GW4B15L",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "GW4B15L",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_GW4B15L",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "GW4B15L",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_GW4B15L",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "GW4B15L",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_GW4G15F",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "GW4G15F",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_GW4G15F",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "GW4G15F",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_GW4G15F",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "GW4G15F",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_GW4G15F",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "GW4G15F",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_GW4G15B",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "GW4G15B",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_GW4G15B",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "GW4G15B",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_GW4G15B",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "GW4G15B",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_GW4G15B",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "GW4G15B",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_GW4C20B",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "GW4C20B",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_GW4C20B",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "GW4C20B",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_GW4C20B",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "GW4C20B",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_GW4C20B",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "GW4C20B",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_GW4G15M",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "GW4G15M",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_GW4G15M",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "GW4G15M",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_GW4G15M",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "GW4G15M",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_GW4G15M",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "GW4G15M",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_E20CB",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "E20CB",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_E20CB",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "E20CB",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_E20CB",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "E20CB",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_E20CB",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "E20CB",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_E30Z",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "E30Z",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_E30Z",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "E30Z",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_E30Z",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "E30Z",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_E30Z",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "E30Z",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_GW6Z30",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "GW6Z30",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_GW6Z30",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "GW6Z30",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_GW6Z30",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "GW6Z30",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_GW6Z30",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "GW6Z30",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1_GW4D20M",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "GW4D20M",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2_GW4D20M",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "GW4D20M",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3_GW4D20M",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "GW4D20M",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4_GW4D20M",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "GW4D20M",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m1",
+      "name": "工具/发动机/燃油",
+      "icon": "fa-wrench",
+      "vehicleCode": "*",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m2",
+      "name": "传动系统/底盘",
+      "icon": "fa-gears",
+      "vehicleCode": "*",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m3",
+      "name": "车身",
+      "icon": "fa-car-side",
+      "vehicleCode": "*",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "m4",
+      "name": "电气",
+      "icon": "fa-bolt",
+      "vehicleCode": "*",
+      "isDefault": false,
+      "createdDate": "2024-01-01T00:00:00Z",
+      "lastUpdated": "2024-01-01T00:00:00Z"
+    }
+  ]
+}

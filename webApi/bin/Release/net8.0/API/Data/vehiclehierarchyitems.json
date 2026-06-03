@@ -1,0 +1,901 @@
+[
+  {
+    "Id": "1",
+    "Name": "\u4E30\u7530",
+    "Regions": {
+      "\u4E00\u822C\u5730\u533A": {
+        "Models": {
+          "\u8363\u653E: RAV4 (CHINA)": {
+            "Releases": [
+              {
+                "Period": "2009-03/2013-07",
+                "Codes": [
+                  "ACA33",
+                  "ACA37",
+                  "ACA38",
+                  "GSA33",
+                  "GSA38"
+                ]
+              },
+              {
+                "Period": "2013-08/2018-12",
+                "Codes": [
+                  "ASU40",
+                  "GSU45",
+                  "ZSA42",
+                  "ZSA44"
+                ]
+              },
+              {
+                "Period": "2019-01/\u81F3\u4ECA",
+                "Codes": [
+                  "MXAA52",
+                  "MXAA54",
+                  "AXAH52"
+                ]
+              }
+            ]
+          },
+          "COROLLA (CHINA)": {
+            "Releases": [
+              {
+                "Period": "2007-05/2014-06",
+                "Codes": [
+                  "ZRE152",
+                  "ZRE153"
+                ]
+              },
+              {
+                "Period": "2014-07/2019-05",
+                "Codes": [
+                  "ZRE181",
+                  "ZRE182"
+                ]
+              },
+              {
+                "Period": "2019-06/\u81F3\u4ECA",
+                "Codes": [
+                  "ZWE211",
+                  "MZEA11"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "\u6B27\u6D32": {
+        "Models": {
+          "YARIS (EUROPE)": {
+            "Releases": [
+              {
+                "Period": "2011-08/2014-06",
+                "Codes": [
+                  "KSP130",
+                  "NLP130"
+                ]
+              },
+              {
+                "Period": "2014-07/2020-03",
+                "Codes": [
+                  "NSP130",
+                  "NCP131"
+                ]
+              }
+            ]
+          },
+          "AYGO": {
+            "Releases": [
+              {
+                "Period": "2005-02/2014-05",
+                "Codes": [
+                  "KGB10"
+                ]
+              },
+              {
+                "Period": "2014-05/2021-11",
+                "Codes": [
+                  "KGB40"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "\u65E5\u672C": {
+        "Models": {
+          "Vanguard": {
+            "Codes": [
+              "GSA33",
+              "ACA33W",
+              "ACA38W"
+            ]
+          },
+          "Alphard": {
+            "Releases": [
+              {
+                "Period": "2008-04/2015-01",
+                "Codes": [
+                  "ANH20",
+                  "GGH20"
+                ]
+              },
+              {
+                "Period": "2015-01/\u81F3\u4ECA",
+                "Codes": [
+                  "AGH30",
+                  "GGH30"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "\u7F8E\u56FD/\u52A0\u62FF\u5927": {
+        "Models": {
+          "Tacoma": {
+            "Releases": [
+              {
+                "Period": "2015-09/2023-12",
+                "Codes": [
+                  "GRN305",
+                  "GRN310",
+                  "TRN245"
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "Id": "2",
+    "Name": "\u96F7\u514B\u8428\u65AF",
+    "Regions": {
+      "\u4E00\u822C\u5730\u533A": {
+        "Models": {
+          "\u96F7\u8428: LEXUS CT200H": {
+            "Releases": [
+              {
+                "Period": "2010-12/\u81F3\u4ECA",
+                "Codes": [
+                  "ZWA10"
+                ]
+              }
+            ]
+          },
+          "\u96F7\u8428: LEXUS ES300H": {
+            "Releases": [
+              {
+                "Period": "2012-06/2018-06",
+                "Codes": [
+                  "AVV60"
+                ]
+              },
+              {
+                "Period": "2018-07/\u81F3\u4ECA",
+                "Codes": [
+                  "AXZH10"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "\u65E5\u672C": {
+        "Models": {
+          "\u96F7\u8428: LEXUS LS500": {
+            "Releases": [
+              {
+                "Period": "2017-10/\u81F3\u4ECA",
+                "Codes": [
+                  "VXFA50",
+                  "VXFA55"
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "Id": "3",
+    "Name": "\u65E5\u4EA7",
+    "Regions": {
+      "\u4E00\u822C\u5730\u533A-\u5DE6\u4FA7\u9A7E\u9A76": {
+        "Models": {
+          "\u5929\u7C41: ALTIMA (L32)": {
+            "Releases": [
+              {
+                "Period": "2007/2013",
+                "Codes": [
+                  "L32L",
+                  "CL32"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "\u4E00\u822C\u5730\u533A-\u53F3\u4FA7\u9A7E\u9A76": {
+        "Models": {
+          "\u5929\u7C41: ALTIMA (R32)": {
+            "Releases": [
+              {
+                "Period": "2007/2013",
+                "Codes": [
+                  "R32R"
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "Id": "4",
+    "Name": "\u672C\u7530",
+    "Models": {
+      "\u96C5\u9601: Accord": {
+        "Codes": [
+          "CV1",
+          "CV2",
+          "CV3"
+        ]
+      },
+      "\u601D\u57DF: Civic": {
+        "Codes": [
+          "FE1",
+          "FE2",
+          "FL1"
+        ]
+      },
+      "CR-V": {
+        "Codes": [
+          "RW1",
+          "RW2",
+          "RT5",
+          "RT6"
+        ]
+      }
+    }
+  },
+  {
+    "Id": "5",
+    "Name": "\u6BD4\u4E9A\u8FEA",
+    "Regions": {
+      "\u4E00\u822C\u5730\u533A": {
+        "Models": {
+          "\u6C49 EV": {
+            "Releases": [
+              {
+                "Period": "2020\u6B3E",
+                "Codes": [
+                  "BYD7009BEV",
+                  "BYD7009BEV1"
+                ]
+              },
+              {
+                "Period": "2021\u6B3E",
+                "Codes": [
+                  "BYD7009BEV2"
+                ]
+              },
+              {
+                "Period": "2022\u6B3E",
+                "Codes": [
+                  "BYD7009BEV-D1"
+                ]
+              }
+            ]
+          },
+          "\u5510 DM": {
+            "Releases": [
+              {
+                "Period": "2018/2020",
+                "Codes": [
+                  "\u5510DM-2.0T"
+                ]
+              },
+              {
+                "Period": "2021/\u81F3\u4ECA",
+                "Codes": [
+                  "\u5510DM-i",
+                  "\u5510DM-p"
+                ]
+              }
+            ]
+          },
+          "\u79E6 PLUS": {
+            "Releases": [
+              {
+                "Period": "2021\u6B3E",
+                "Codes": [
+                  "\u79E6PLUS-DM-i",
+                  "\u79E6PLUS-EV"
+                ]
+              }
+            ]
+          },
+          "\u5143 PLUS": {
+            "Releases": [
+              {
+                "Period": "2022\u6B3E",
+                "Codes": [
+                  "BYD7003BEVA3",
+                  "TZ200XSQ"
+                ]
+              },
+              {
+                "Period": "2025\u6B3E",
+                "Codes": [
+                  "BYD7003BEVA3"
+                ]
+              }
+            ]
+          },
+          "\u5B8B PLUS EV": {
+            "Releases": [
+              {
+                "Period": "2024\u6B3E",
+                "Codes": [
+                  "TZ200XYM"
+                ]
+              },
+              {
+                "Period": "2025\u6B3E",
+                "Codes": [
+                  "DE7PNE"
+                ]
+              }
+            ]
+          },
+          "\u6D77\u9E25": {
+            "Releases": [
+              {
+                "Period": "2023\u6B3E",
+                "Codes": [
+                  "BYD7001BEVA1"
+                ]
+              },
+              {
+                "Period": "2025\u6B3E",
+                "Codes": [
+                  "WBX9BP"
+                ]
+              }
+            ]
+          },
+          "\u6D77\u8C5A": {
+            "Releases": [
+              {
+                "Period": "2025\u6B3E",
+                "Codes": [
+                  "BYD7004BEV13",
+                  "TZ200XSQ"
+                ]
+              }
+            ]
+          },
+          "\u6D77\u8C79": {
+            "Releases": [
+              {
+                "Period": "2025\u6B3E",
+                "Codes": [
+                  "BYD472QC",
+                  "79QWVA"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "\u6B27\u6D32": {
+        "Models": {
+          "\u6C49 EV": {
+            "Releases": [
+              {
+                "Period": "2020\u6B3E",
+                "Codes": [
+                  "BYD7009BEV",
+                  "BYD7009BEV1"
+                ]
+              },
+              {
+                "Period": "2021\u6B3E",
+                "Codes": [
+                  "BYD7009BEV2"
+                ]
+              },
+              {
+                "Period": "2022\u6B3E",
+                "Codes": [
+                  "BYD7009BEV-D1"
+                ]
+              }
+            ]
+          },
+          "\u5510 DM": {
+            "Releases": [
+              {
+                "Period": "2018/2020",
+                "Codes": [
+                  "\u5510DM-2.0T"
+                ]
+              },
+              {
+                "Period": "2021/\u81F3\u4ECA",
+                "Codes": [
+                  "\u5510DM-i",
+                  "\u5510DM-p"
+                ]
+              }
+            ]
+          },
+          "\u5143 PLUS": {
+            "Releases": [
+              {
+                "Period": "2022\u6B3E",
+                "Codes": [
+                  "BYD7003BEVA3",
+                  "TZ200XSQ"
+                ]
+              },
+              {
+                "Period": "2025\u6B3E",
+                "Codes": [
+                  "BYD7003BEVA3"
+                ]
+              }
+            ]
+          },
+          "\u6D77\u8C5A": {
+            "Releases": [
+              {
+                "Period": "2025\u6B3E",
+                "Codes": [
+                  "BYD7004BEV13",
+                  "TZ200XSQ"
+                ]
+              }
+            ]
+          },
+          "\u6D77\u8C79": {
+            "Releases": [
+              {
+                "Period": "2025\u6B3E",
+                "Codes": [
+                  "BYD472QC",
+                  "79QWVA"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "\u65E5\u672C": {
+        "Models": {
+          "\u5143 PLUS": {
+            "Releases": [
+              {
+                "Period": "2022\u6B3E",
+                "Codes": [
+                  "BYD7003BEVA3",
+                  "TZ200XSQ"
+                ]
+              },
+              {
+                "Period": "2025\u6B3E",
+                "Codes": [
+                  "BYD7003BEVA3"
+                ]
+              }
+            ]
+          },
+          "\u6D77\u8C5A": {
+            "Releases": [
+              {
+                "Period": "2025\u6B3E",
+                "Codes": [
+                  "BYD7004BEV13",
+                  "TZ200XSQ"
+                ]
+              }
+            ]
+          },
+          "\u6D77\u8C79": {
+            "Releases": [
+              {
+                "Period": "2025\u6B3E",
+                "Codes": [
+                  "BYD472QC",
+                  "79QWVA"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "\u7F8E\u56FD/\u52A0\u62FF\u5927": {
+        "Models": {}
+      }
+    }
+  },
+  {
+    "Id": "6",
+    "Name": "\u6BD4\u4E9A\u8FEA-\u5FEB\u9009",
+    "Regions": {
+      "\u4E00\u822C\u5730\u533A": {
+        "Models": {
+          "\u6C49 EV": {
+            "Releases": [
+              {
+                "Period": "2020\u6B3E",
+                "Codes": [
+                  "BYD7009BEV",
+                  "BYD7009BEV1"
+                ]
+              },
+              {
+                "Period": "2021\u6B3E",
+                "Codes": [
+                  "BYD7009BEV2"
+                ]
+              },
+              {
+                "Period": "2022\u6B3E",
+                "Codes": [
+                  "BYD7009BEV-D1"
+                ]
+              }
+            ]
+          },
+          "\u5510 DM": {
+            "Releases": [
+              {
+                "Period": "2018/2020",
+                "Codes": [
+                  "\u5510DM-2.0T"
+                ]
+              },
+              {
+                "Period": "2021/\u81F3\u4ECA",
+                "Codes": [
+                  "\u5510DM-i",
+                  "\u5510DM-p"
+                ]
+              }
+            ]
+          },
+          "\u79E6 PLUS": {
+            "Releases": [
+              {
+                "Period": "2021\u6B3E",
+                "Codes": [
+                  "\u79E6PLUS-DM-i",
+                  "\u79E6PLUS-EV"
+                ]
+              }
+            ]
+          },
+          "\u5143 PLUS": {
+            "Releases": [
+              {
+                "Period": "2022\u6B3E",
+                "Codes": [
+                  "BYD7003BEVA3",
+                  "TZ200XSQ"
+                ]
+              },
+              {
+                "Period": "2025\u6B3E",
+                "Codes": [
+                  "BYD7003BEVA3"
+                ]
+              }
+            ]
+          },
+          "\u5B8B PLUS EV": {
+            "Releases": [
+              {
+                "Period": "2024\u6B3E",
+                "Codes": [
+                  "TZ200XYM"
+                ]
+              },
+              {
+                "Period": "2025\u6B3E",
+                "Codes": [
+                  "DE7PNE"
+                ]
+              }
+            ]
+          },
+          "\u6D77\u9E25": {
+            "Releases": [
+              {
+                "Period": "2023\u6B3E",
+                "Codes": [
+                  "BYD7001BEVA1"
+                ]
+              },
+              {
+                "Period": "2025\u6B3E",
+                "Codes": [
+                  "WBX9BP"
+                ]
+              }
+            ]
+          },
+          "\u6D77\u8C5A": {
+            "Releases": [
+              {
+                "Period": "2025\u6B3E",
+                "Codes": [
+                  "BYD7004BEV13",
+                  "TZ200XSQ"
+                ]
+              }
+            ]
+          },
+          "\u6D77\u8C79": {
+            "Releases": [
+              {
+                "Period": "2025\u6B3E",
+                "Codes": [
+                  "BYD472QC",
+                  "79QWVA"
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "Id": "7",
+    "Name": "\u957F\u57CE",
+    "Regions": {
+      "\u4E00\u822C\u5730\u533A": {
+        "Models": {
+          "\u54C8\u5F17 H9": {
+            "Releases": [
+              {
+                "Period": "2022\u6B3E",
+                "Codes": [
+                  "GW4C20B"
+                ]
+              }
+            ],
+            "Codes": []
+          },
+          "\u54C8\u5F17 M6": {
+            "Releases": [
+              {
+                "Period": "2023\u6B3E",
+                "Codes": [
+                  "GW4G15M"
+                ]
+              }
+            ],
+            "Codes": []
+          },
+          "\u54C8\u5F17 DARGO": {
+            "Releases": [
+              {
+                "Period": "2021\u6B3E",
+                "Codes": [
+                  "GW4N20",
+                  "GW4B15C"
+                ]
+              }
+            ],
+            "Codes": []
+          },
+          "\u5766\u514B 300": {
+            "Releases": [
+              {
+                "Period": "2024\u6B3E",
+                "Codes": [
+                  "E20CB",
+                  "GW4N20"
+                ]
+              }
+            ],
+            "Codes": []
+          },
+          "\u5766\u514B 500": {
+            "Releases": [
+              {
+                "Period": "2023\u6B3E",
+                "Codes": [
+                  "E30Z",
+                  "GW6Z30"
+                ]
+              }
+            ],
+            "Codes": []
+          },
+          "\u98CE\u9A8F W5/Wingle W5": {
+            "Releases": [
+              {
+                "Period": "2021\u6B3E",
+                "Codes": [
+                  "GW4D20M",
+                  "GW4C20B"
+                ]
+              }
+            ],
+            "Codes": []
+          },
+          "\u98CE\u9A8F W7/Wingle W7": {
+            "Releases": [
+              {
+                "Period": "2021\u6B3E",
+                "Codes": [
+                  "GW4D20M",
+                  "GW4C20B"
+                ]
+              }
+            ],
+            "Codes": []
+          },
+          "\u54C8\u5F17 JOLION1": {
+            "Releases": [
+              {
+                "Period": "2021\u6B3E",
+                "Codes": [
+                  "GW4G15K",
+                  "GW4B15C"
+                ]
+              }
+            ],
+            "Codes": []
+          },
+          "\u54C8\u5F17 H6 3D1": {
+            "Releases": [
+              {
+                "Period": "2023\u6B3E",
+                "Codes": [
+                  "GW4N20",
+                  "GW4B15L"
+                ]
+              }
+            ],
+            "Codes": []
+          },
+          "\u54C8\u5F17 H2-1": {
+            "Releases": [
+              {
+                "Period": "2018\u6B3E",
+                "Codes": [
+                  "GW4G15F",
+                  "GW4G15B"
+                ]
+              }
+            ],
+            "Codes": []
+          }
+        }
+      }
+    }
+  },
+  {
+    "Id": "8",
+    "Name": "\u957F\u5B89",
+    "Regions": {
+      "\u4E00\u822C\u5730\u533A": {
+        "Models": {
+          "\u957F\u5B89 UNI-K": {
+            "Releases": [
+              {
+                "Period": "2024\u6B3E",
+                "Codes": [
+                  "JL473ZQ6"
+                ]
+              }
+            ]
+          },
+          "\u957F\u5B89 UNI-T": {
+            "Releases": [
+              {
+                "Period": "2020\u6B3E",
+                "Codes": [
+                  "JL473ZQ5"
+                ]
+              }
+            ]
+          },
+          "\u957F\u5B89 UNI-V": {
+            "Releases": [
+              {
+                "Period": "2022\u6B3E",
+                "Codes": [
+                  "JL473ZQ7"
+                ]
+              }
+            ]
+          },
+          "\u957F\u5B89 CS35 PLUS": {
+            "Releases": [
+              {
+                "Period": "2018\u6B3E",
+                "Codes": [
+                  "JL478QEP"
+                ]
+              },
+              {
+                "Period": "2019\u6B3E",
+                "Codes": [
+                  "JL473ZQ3"
+                ]
+              }
+            ]
+          },
+          "\u957F\u5B89 CS55 PLUS 2RD": {
+            "Releases": [
+              {
+                "Period": "2021\u6B3E",
+                "Codes": [
+                  "JL473ZQ2"
+                ]
+              },
+              {
+                "Period": "2022\u6B3E",
+                "Codes": [
+                  "JL473ZQ7"
+                ]
+              }
+            ]
+          },
+          "\u957F\u5B89 CS75 PLUS": {
+            "Releases": [
+              {
+                "Period": "2022\u6B3E",
+                "Codes": [
+                  "JL486ZQ4",
+                  "JL473ZQ7"
+                ]
+              }
+            ]
+          },
+          "\u957F\u5B89 CS85": {
+            "Releases": [
+              {
+                "Period": "2023\u6B3E",
+                "Codes": [
+                  "JL486ZQ4",
+                  "JL473ZQ5"
+                ]
+              }
+            ]
+          },
+          "\u957F\u5B89 LAMORE": {
+            "Releases": [
+              {
+                "Period": "2023\u6B3E",
+                "Codes": [
+                  "JL473ZQ7"
+                ]
+              }
+            ]
+          },
+          "\u957F\u5B89 HUNTER/F70": {
+            "Releases": [
+              {
+                "Period": "2020\u6B3E",
+                "Codes": [
+                  "F70-2.4T",
+                  "F70-2.5T"
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+]

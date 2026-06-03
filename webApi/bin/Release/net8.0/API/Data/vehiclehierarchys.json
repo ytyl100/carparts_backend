@@ -1,0 +1,649 @@
+[
+  {
+    "id": "1",
+    "name": "丰田",
+    "regions": {
+      "一般地区": {
+        "models": {
+          "荣放: RAV4 (CHINA)": {
+            "releases": [
+              {
+                "period": "2009-03/2013-07",
+                "codes": [ "ACA33", "ACA37", "ACA38", "GSA33", "GSA38" ]
+              },
+              {
+                "period": "2013-08/2018-12",
+                "codes": [ "ASU40", "GSU45", "ZSA42", "ZSA44" ]
+              },
+              {
+                "period": "2019-01/至今",
+                "codes": [ "MXAA52", "MXAA54", "AXAH52" ]
+              }
+            ]
+          },
+          "COROLLA (CHINA)": {
+            "releases": [
+              {
+                "period": "2007-05/2014-06",
+                "codes": [ "ZRE152", "ZRE153" ]
+              },
+              {
+                "period": "2014-07/2019-05",
+                "codes": [ "ZRE181", "ZRE182" ]
+              },
+              {
+                "period": "2019-06/至今",
+                "codes": [ "ZWE211", "MZEA11" ]
+              }
+            ]
+          }
+        }
+      },
+      "欧洲": {
+        "models": {
+          "YARIS (EUROPE)": {
+            "releases": [
+              {
+                "period": "2011-08/2014-06",
+                "codes": [ "KSP130", "NLP130" ]
+              },
+              {
+                "period": "2014-07/2020-03",
+                "codes": [ "NSP130", "NCP131" ]
+              }
+            ]
+          },
+          "AYGO": {
+            "releases": [
+              {
+                "period": "2005-02/2014-05",
+                "codes": [ "KGB10" ]
+              },
+              {
+                "period": "2014-05/2021-11",
+                "codes": [ "KGB40" ]
+              }
+            ]
+          }
+        }
+      },
+      "日本": {
+        "models": {
+          "Vanguard": {
+            "codes": [ "GSA33", "ACA33W", "ACA38W" ]
+          },
+          "Alphard": {
+            "releases": [
+              {
+                "period": "2008-04/2015-01",
+                "codes": [ "ANH20", "GGH20" ]
+              },
+              {
+                "period": "2015-01/至今",
+                "codes": [ "AGH30", "GGH30" ]
+              }
+            ]
+          }
+        }
+      },
+      "美国/加拿大": {
+        "models": {
+          "Tacoma": {
+            "releases": [
+              {
+                "period": "2015-09/2023-12",
+                "codes": [ "GRN305", "GRN310", "TRN245" ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "2",
+    "name": "雷克萨斯",
+    "regions": {
+      "一般地区": {
+        "models": {
+          "雷萨: LEXUS CT200H": {
+            "releases": [
+              {
+                "period": "2010-12/至今",
+                "codes": [ "ZWA10" ]
+              }
+            ]
+          },
+          "雷萨: LEXUS ES300H": {
+            "releases": [
+              {
+                "period": "2012-06/2018-06",
+                "codes": [ "AVV60" ]
+              },
+              {
+                "period": "2018-07/至今",
+                "codes": [ "AXZH10" ]
+              }
+            ]
+          }
+        }
+      },
+      "日本": {
+        "models": {
+          "雷萨: LEXUS LS500": {
+            "releases": [
+              {
+                "period": "2017-10/至今",
+                "codes": [ "VXFA50", "VXFA55" ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "3",
+    "name": "日产",
+    "regions": {
+      "一般地区-左侧驾驶": {
+        "models": {
+          "天籁: ALTIMA (L32)": {
+            "releases": [
+              {
+                "period": "2007/2013",
+                "codes": [ "L32L", "CL32" ]
+              }
+            ]
+          }
+        }
+      },
+      "一般地区-右侧驾驶": {
+        "models": {
+          "天籁: ALTIMA (R32)": {
+            "releases": [
+              {
+                "period": "2007/2013",
+                "codes": [ "R32R" ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": "4",
+    "name": "本田",
+    "models": {
+      "雅阁: Accord": {
+        "codes": [ "CV1", "CV2", "CV3" ]
+      },
+      "思域: Civic": {
+        "codes": [ "FE1", "FE2", "FL1" ]
+      },
+      "CR-V": {
+        "codes": [ "RW1", "RW2", "RT5", "RT6" ]
+      }
+    }
+  },
+  {
+    "id": "5",
+    "name": "比亚迪",
+    "regions": {
+      "一般地区": {
+        "models": {
+          "汉 EV": {
+            "releases": [
+              {
+                "period": "2020款",
+                "codes": [ "BYD7009BEV", "BYD7009BEV1" ]
+              },
+              {
+                "period": "2021款",
+                "codes": [ "BYD7009BEV2" ]
+              },
+              {
+                "period": "2022款",
+                "codes": [ "BYD7009BEV-D1" ]
+              }
+            ]
+          },
+          "唐 DM": {
+            "releases": [
+              {
+                "period": "2018/2020",
+                "codes": [ "唐DM-2.0T" ]
+              },
+              {
+                "period": "2021/至今",
+                "codes": [ "唐DM-i", "唐DM-p" ]
+              }
+            ]
+          },
+          "秦 PLUS": {
+            "releases": [
+              {
+                "period": "2021款",
+                "codes": [ "秦PLUS-DM-i", "秦PLUS-EV" ]
+              }
+            ]
+          },
+          "元 PLUS": {
+            "releases": [
+              {
+                "period": "2022款",
+                "codes": [ "BYD7003BEVA3", "TZ200XSQ" ]
+              },
+              {
+                "period": "2025款",
+                "codes": [ "BYD7003BEVA3" ]
+              }
+            ]
+          },
+          "宋 PLUS EV": {
+            "releases": [
+              {
+                "period": "2024款",
+                "codes": [ "TZ200XYM" ]
+              },
+              {
+                "period": "2025款",
+                "codes": [ "DE7PNE" ]
+              }
+            ]
+          },
+          "海鸥": {
+            "releases": [
+              {
+                "period": "2023款",
+                "codes": [ "BYD7001BEVA1" ]
+              },
+              {
+                "period": "2025款",
+                "codes": [ "WBX9BP" ]
+              }
+            ]
+          },
+          "海豚": {
+            "releases": [
+              {
+                "period": "2025款",
+                "codes": [ "BYD7004BEV13", "TZ200XSQ" ]
+              }
+            ]
+          },
+          "海豹": {
+            "releases": [
+              {
+                "period": "2025款",
+                "codes": [ "BYD472QC", "79QWVA" ]
+              }
+            ]
+          }
+        }
+      },
+      "欧洲": {
+        "models": {
+          "汉 EV": {
+            "releases": [
+              {
+                "period": "2020款",
+                "codes": [ "BYD7009BEV", "BYD7009BEV1" ]
+              },
+              {
+                "period": "2021款",
+                "codes": [ "BYD7009BEV2" ]
+              },
+              {
+                "period": "2022款",
+                "codes": [ "BYD7009BEV-D1" ]
+              }
+            ]
+          },
+          "唐 DM": {
+            "releases": [
+              {
+                "period": "2018/2020",
+                "codes": [ "唐DM-2.0T" ]
+              },
+              {
+                "period": "2021/至今",
+                "codes": [ "唐DM-i", "唐DM-p" ]
+              }
+            ]
+          },
+          "元 PLUS": {
+            "releases": [
+              {
+                "period": "2022款",
+                "codes": [ "BYD7003BEVA3", "TZ200XSQ" ]
+              },
+              {
+                "period": "2025款",
+                "codes": [ "BYD7003BEVA3" ]
+              }
+            ]
+          },
+          "海豚": {
+            "releases": [
+              {
+                "period": "2025款",
+                "codes": [ "BYD7004BEV13", "TZ200XSQ" ]
+              }
+            ]
+          },
+          "海豹": {
+            "releases": [
+              {
+                "period": "2025款",
+                "codes": [ "BYD472QC", "79QWVA" ]
+              }
+            ]
+          }
+        }
+      },
+      "日本": {
+        "models": {
+          "元 PLUS": {
+            "releases": [
+              {
+                "period": "2022款",
+                "codes": [ "BYD7003BEVA3", "TZ200XSQ" ]
+              },
+              {
+                "period": "2025款",
+                "codes": [ "BYD7003BEVA3" ]
+              }
+            ]
+          },
+          "海豚": {
+            "releases": [
+              {
+                "period": "2025款",
+                "codes": [ "BYD7004BEV13", "TZ200XSQ" ]
+              }
+            ]
+          },
+          "海豹": {
+            "releases": [
+              {
+                "period": "2025款",
+                "codes": [ "BYD472QC", "79QWVA" ]
+              }
+            ]
+          }
+        }
+      },
+      "美国/加拿大": {
+        "models": {}
+      }
+    }
+  },
+  {
+    "id": "6",
+    "name": "比亚迪-快选",
+    "models": {
+      "汉 EV": {
+        "releases": [
+          {
+            "period": "2020款",
+            "codes": [ "BYD7009BEV", "BYD7009BEV1" ]
+          },
+          {
+            "period": "2021款",
+            "codes": [ "BYD7009BEV2" ]
+          },
+          {
+            "period": "2022款",
+            "codes": [ "BYD7009BEV-D1" ]
+          }
+        ]
+      },
+      "唐 DM": {
+        "releases": [
+          {
+            "period": "2018/2020",
+            "codes": [ "唐DM-2.0T" ]
+          },
+          {
+            "period": "2021/至今",
+            "codes": [ "唐DM-i", "唐DM-p" ]
+          }
+        ]
+      },
+      "秦 PLUS": {
+        "releases": [
+          {
+            "period": "2021款",
+            "codes": [ "秦PLUS-DM-i", "秦PLUS-EV" ]
+          }
+        ]
+      },
+      "元 PLUS": {
+        "releases": [
+          {
+            "period": "2022款",
+            "codes": [ "BYD7003BEVA3", "TZ200XSQ" ]
+          },
+          {
+            "period": "2025款",
+            "codes": [ "BYD7003BEVA3" ]
+          }
+        ]
+      },
+      "宋 PLUS EV": {
+        "releases": [
+          {
+            "period": "2024款",
+            "codes": [ "TZ200XYM" ]
+          },
+          {
+            "period": "2025款",
+            "codes": [ "DE7PNE" ]
+          }
+        ]
+      },
+      "海鸥": {
+        "releases": [
+          {
+            "period": "2023款",
+            "codes": [ "BYD7001BEVA1" ]
+          },
+          {
+            "period": "2025款",
+            "codes": [ "WBX9BP" ]
+          }
+        ]
+      },
+      "海豚": {
+        "releases": [
+          {
+            "period": "2025款",
+            "codes": [ "BYD7004BEV13", "TZ200XSQ" ]
+          }
+        ]
+      },
+      "海豹": {
+        "releases": [
+          {
+            "period": "2025款",
+            "codes": [ "BYD472QC", "79QWVA" ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "7",
+    "name": "长安",
+    "models": {
+      "长安 UNI-K": {
+        "releases": [
+          {
+            "period": "2024款",
+            "codes": [ "JL473ZQ6" ]
+          }
+        ]
+      },
+      "长安 UNI-T": {
+        "releases": [
+          {
+            "period": "2020款",
+            "codes": [ "JL473ZQ5" ]
+          }
+        ]
+      },
+      "长安 UNI-V": {
+        "releases": [
+          {
+            "period": "2022款",
+            "codes": [ "JL473ZQ7" ]
+          }
+        ]
+      },
+      "长安 CS35 PLUS": {
+        "releases": [
+          {
+            "period": "2018款",
+            "codes": [ "JL478QEP" ]
+          },
+          {
+            "period": "2019款",
+            "codes": [ "JL473ZQ3" ]
+          }
+        ]
+      },
+      "长安 CS55 PLUS 2RD": {
+        "releases": [
+          {
+            "period": "2021款",
+            "codes": [ "JL473ZQ2" ]
+          },
+          {
+            "period": "2022款",
+            "codes": [ "JL473ZQ7" ]
+          }
+        ]
+      },
+      "长安 CS75 PLUS": {
+        "releases": [
+          {
+            "period": "2022款",
+            "codes": [ "JL486ZQ4", "JL473ZQ7" ]
+          }
+        ]
+      },
+      "长安 CS85": {
+        "releases": [
+          {
+            "period": "2023款",
+            "codes": [ "JL486ZQ4", "JL473ZQ5" ]
+          }
+        ]
+      },
+      "长安 LAMORE": {
+        "releases": [
+          {
+            "period": "2023款",
+            "codes": [ "JL473ZQ7" ]
+          }
+        ]
+      },
+      "长安 HUNTER/F70": {
+        "releases": [
+          {
+            "period": "2020款",
+            "codes": [ "F70-2.4T", "F70-2.5T" ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "8",
+    "name": "长城",
+    "models": {
+      "哈弗 JOLION": {
+        "releases": [
+          {
+            "period": "2021款",
+            "codes": [ "GW4G15K", "GW4B15C" ]
+          }
+        ]
+      },
+      "哈弗 H6 3D": {
+        "releases": [
+          {
+            "period": "2023款",
+            "codes": [ "GW4N20", "GW4B15L" ]
+          }
+        ]
+      },
+      "哈弗 H2": {
+        "releases": [
+          {
+            "period": "2018款",
+            "codes": [ "GW4G15F", "GW4G15B" ]
+          }
+        ]
+      },
+      "哈弗 H9": {
+        "releases": [
+          {
+            "period": "2022款",
+            "codes": [ "GW4C20B" ]
+          }
+        ]
+      },
+      "哈弗 M6": {
+        "releases": [
+          {
+            "period": "2023款",
+            "codes": [ "GW4G15M" ]
+          }
+        ]
+      },
+      "哈弗 DARGO": {
+        "releases": [
+          {
+            "period": "2021款",
+            "codes": [ "GW4N20", "GW4B15C" ]
+          }
+        ]
+      },
+      "坦克 300": {
+        "releases": [
+          {
+            "period": "2024款",
+            "codes": [ "E20CB", "GW4N20" ]
+          }
+        ]
+      },
+      "坦克 500": {
+        "releases": [
+          {
+            "period": "2023款",
+            "codes": [ "E30Z", "GW6Z30" ]
+          }
+        ]
+      },
+      "风骏 W5/Wingle W5": {
+        "releases": [
+          {
+            "period": "2021款",
+            "codes": [ "GW4D20M", "GW4C20B" ]
+          }
+        ]
+      },
+      "风骏 W7/Wingle W7": {
+        "releases": [
+          {
+            "period": "2021款",
+            "codes": [ "GW4D20M", "GW4C20B" ]
+          }
+        ]
+      }
+    }
+  }
+]

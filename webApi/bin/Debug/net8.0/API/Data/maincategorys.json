@@ -1,0 +1,3260 @@
+[
+  {
+    "Id": "m1_ACA33",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "ACA33",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_ACA33",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "ACA33",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_ACA33",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "ACA33",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_ACA33",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "ACA33",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_ACA37",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "ACA37",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_ACA37",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "ACA37",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_ACA37",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "ACA37",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_ACA37",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "ACA37",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_ACA38",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "ACA38",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_ACA38",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "ACA38",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_ACA38",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "ACA38",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_ACA38",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "ACA38",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_GSA33",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "GSA33",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_GSA33",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "GSA33",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_GSA33",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "GSA33",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_GSA33",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "GSA33",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_GSA38",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "GSA38",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_GSA38",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "GSA38",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_GSA38",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "GSA38",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_GSA38",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "GSA38",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_ASU40",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "ASU40",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_ASU40",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "ASU40",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_ASU40",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "ASU40",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_ASU40",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "ASU40",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_GSU45",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "GSU45",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_GSU45",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "GSU45",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_GSU45",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "GSU45",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_GSU45",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "GSU45",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_ZSA42",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "ZSA42",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_ZSA42",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "ZSA42",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_ZSA42",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "ZSA42",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_ZSA42",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "ZSA42",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_ZSA44",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "ZSA44",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_ZSA44",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "ZSA44",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_ZSA44",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "ZSA44",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_ZSA44",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "ZSA44",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_MXAA52",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "MXAA52",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_MXAA52",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "MXAA52",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_MXAA52",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "MXAA52",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_MXAA52",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "MXAA52",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_MXAA54",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "MXAA54",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_MXAA54",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "MXAA54",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_MXAA54",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "MXAA54",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_MXAA54",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "MXAA54",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_AXAH52",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "AXAH52",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_AXAH52",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "AXAH52",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_AXAH52",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "AXAH52",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_AXAH52",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "AXAH52",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_ZRE152",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "ZRE152",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_ZRE152",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "ZRE152",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_ZRE152",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "ZRE152",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_ZRE152",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "ZRE152",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_ZRE153",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "ZRE153",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_ZRE153",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "ZRE153",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_ZRE153",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "ZRE153",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_ZRE153",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "ZRE153",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_ZRE181",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "ZRE181",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_ZRE181",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "ZRE181",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_ZRE181",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "ZRE181",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_ZRE181",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "ZRE181",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_ZRE182",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "ZRE182",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_ZRE182",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "ZRE182",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_ZRE182",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "ZRE182",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_ZRE182",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "ZRE182",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_ZWE211",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "ZWE211",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_ZWE211",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "ZWE211",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_ZWE211",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "ZWE211",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_ZWE211",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "ZWE211",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_MZEA11",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "MZEA11",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_MZEA11",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "MZEA11",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_MZEA11",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "MZEA11",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_MZEA11",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "MZEA11",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_KSP130",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "KSP130",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_KSP130",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "KSP130",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_KSP130",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "KSP130",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_KSP130",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "KSP130",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_NLP130",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "NLP130",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_NLP130",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "NLP130",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_NLP130",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "NLP130",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_NLP130",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "NLP130",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_NSP130",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "NSP130",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_NSP130",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "NSP130",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_NSP130",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "NSP130",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_NSP130",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "NSP130",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_NCP131",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "NCP131",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_NCP131",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "NCP131",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_NCP131",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "NCP131",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_NCP131",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "NCP131",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_KGB10",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "KGB10",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_KGB10",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "KGB10",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_KGB10",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "KGB10",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_KGB10",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "KGB10",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_KGB40",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "KGB40",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_KGB40",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "KGB40",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_KGB40",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "KGB40",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_KGB40",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "KGB40",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_ACA33W",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "ACA33W",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_ACA33W",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "ACA33W",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_ACA33W",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "ACA33W",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_ACA33W",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "ACA33W",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_ACA38W",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "ACA38W",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_ACA38W",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "ACA38W",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_ACA38W",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "ACA38W",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_ACA38W",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "ACA38W",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_ANH20",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "ANH20",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_ANH20",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "ANH20",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_ANH20",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "ANH20",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_ANH20",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "ANH20",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_GGH20",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "GGH20",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_GGH20",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "GGH20",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_GGH20",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "GGH20",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_GGH20",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "GGH20",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_AGH30",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "AGH30",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_AGH30",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "AGH30",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_AGH30",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "AGH30",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_AGH30",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "AGH30",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_GGH30",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "GGH30",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_GGH30",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "GGH30",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_GGH30",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "GGH30",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_GGH30",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "GGH30",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_GRN305",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "GRN305",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_GRN305",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "GRN305",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_GRN305",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "GRN305",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_GRN305",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "GRN305",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_GRN310",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "GRN310",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_GRN310",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "GRN310",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_GRN310",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "GRN310",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_GRN310",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "GRN310",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_TRN245",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "TRN245",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_TRN245",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "TRN245",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_TRN245",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "TRN245",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_TRN245",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "TRN245",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_ZWA10",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "ZWA10",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_ZWA10",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "ZWA10",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_ZWA10",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "ZWA10",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_ZWA10",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "ZWA10",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_AVV60",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "AVV60",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_AVV60",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "AVV60",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_AVV60",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "AVV60",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_AVV60",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "AVV60",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_AXZH10",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "AXZH10",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_AXZH10",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "AXZH10",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_AXZH10",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "AXZH10",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_AXZH10",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "AXZH10",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_VXFA50",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "VXFA50",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_VXFA50",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "VXFA50",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_VXFA50",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "VXFA50",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_VXFA50",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "VXFA50",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_VXFA55",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "VXFA55",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_VXFA55",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "VXFA55",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_VXFA55",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "VXFA55",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_VXFA55",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "VXFA55",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_L32L",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "L32L",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_L32L",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "L32L",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_L32L",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "L32L",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_L32L",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "L32L",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_CL32",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "CL32",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_CL32",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "CL32",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_CL32",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "CL32",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_CL32",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "CL32",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_R32R",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "R32R",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_R32R",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "R32R",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_R32R",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "R32R",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_R32R",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "R32R",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_CV1",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "CV1",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_CV1",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "CV1",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_CV1",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "CV1",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_CV1",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "CV1",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_CV2",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "CV2",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_CV2",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "CV2",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_CV2",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "CV2",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_CV2",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "CV2",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_CV3",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "CV3",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_CV3",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "CV3",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_CV3",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "CV3",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_CV3",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "CV3",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_FE1",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "FE1",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_FE1",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "FE1",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_FE1",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "FE1",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_FE1",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "FE1",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_FE2",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "FE2",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_FE2",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "FE2",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_FE2",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "FE2",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_FE2",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "FE2",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_FL1",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "FL1",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_FL1",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "FL1",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_FL1",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "FL1",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_FL1",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "FL1",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_RW1",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "RW1",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_RW1",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "RW1",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_RW1",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "RW1",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_RW1",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "RW1",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_RW2",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "RW2",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_RW2",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "RW2",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_RW2",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "RW2",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_RW2",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "RW2",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_RT5",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "RT5",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_RT5",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "RT5",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_RT5",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "RT5",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_RT5",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "RT5",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_RT6",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "RT6",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_RT6",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "RT6",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_RT6",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "RT6",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_RT6",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "RT6",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_BYD7009BEV",
+    "Name": "\u9AD8\u538B\u7535\u6C60/\u7535\u673A/\u7535\u63A7",
+    "Icon": "fa-battery-full",
+    "VehicleCode": "BYD7009BEV",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_BYD7009BEV",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "BYD7009BEV",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_BYD7009BEV",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "BYD7009BEV",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_BYD7009BEV",
+    "Name": "\u8F85\u52A9\u7535\u6C14/\u591A\u5A92\u4F53",
+    "Icon": "fa-bolt",
+    "VehicleCode": "BYD7009BEV",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_BYD7009BEV1",
+    "Name": "\u9AD8\u538B\u7535\u6C60/\u7535\u673A/\u7535\u63A7",
+    "Icon": "fa-battery-full",
+    "VehicleCode": "BYD7009BEV1",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_BYD7009BEV1",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "BYD7009BEV1",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_BYD7009BEV1",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "BYD7009BEV1",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_BYD7009BEV1",
+    "Name": "\u8F85\u52A9\u7535\u6C14/\u591A\u5A92\u4F53",
+    "Icon": "fa-bolt",
+    "VehicleCode": "BYD7009BEV1",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_BYD7009BEV2",
+    "Name": "\u9AD8\u538B\u7535\u6C60/\u7535\u673A/\u7535\u63A7",
+    "Icon": "fa-battery-full",
+    "VehicleCode": "BYD7009BEV2",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_BYD7009BEV2",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "BYD7009BEV2",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_BYD7009BEV2",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "BYD7009BEV2",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_BYD7009BEV2",
+    "Name": "\u8F85\u52A9\u7535\u6C14/\u591A\u5A92\u4F53",
+    "Icon": "fa-bolt",
+    "VehicleCode": "BYD7009BEV2",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_BYD7009BEV-D1",
+    "Name": "\u9AD8\u538B\u7535\u6C60/\u7535\u673A/\u7535\u63A7",
+    "Icon": "fa-battery-full",
+    "VehicleCode": "BYD7009BEV-D1",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_BYD7009BEV-D1",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "BYD7009BEV-D1",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_BYD7009BEV-D1",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "BYD7009BEV-D1",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_BYD7009BEV-D1",
+    "Name": "\u8F85\u52A9\u7535\u6C14/\u591A\u5A92\u4F53",
+    "Icon": "fa-bolt",
+    "VehicleCode": "BYD7009BEV-D1",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_\u5510DM-2.0T",
+    "Name": "\u9AD8\u538B\u7535\u6C60/\u7535\u673A/\u7535\u63A7",
+    "Icon": "fa-battery-full",
+    "VehicleCode": "\u5510DM-2.0T",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_\u5510DM-2.0T",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "\u5510DM-2.0T",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_\u5510DM-2.0T",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "\u5510DM-2.0T",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_\u5510DM-2.0T",
+    "Name": "\u8F85\u52A9\u7535\u6C14/\u591A\u5A92\u4F53",
+    "Icon": "fa-bolt",
+    "VehicleCode": "\u5510DM-2.0T",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_\u5510DM-i",
+    "Name": "\u9AD8\u538B\u7535\u6C60/\u7535\u673A/\u7535\u63A7",
+    "Icon": "fa-battery-full",
+    "VehicleCode": "\u5510DM-i",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_\u5510DM-i",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "\u5510DM-i",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_\u5510DM-i",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "\u5510DM-i",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_\u5510DM-i",
+    "Name": "\u8F85\u52A9\u7535\u6C14/\u591A\u5A92\u4F53",
+    "Icon": "fa-bolt",
+    "VehicleCode": "\u5510DM-i",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_\u5510DM-p",
+    "Name": "\u9AD8\u538B\u7535\u6C60/\u7535\u673A/\u7535\u63A7",
+    "Icon": "fa-battery-full",
+    "VehicleCode": "\u5510DM-p",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_\u5510DM-p",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "\u5510DM-p",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_\u5510DM-p",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "\u5510DM-p",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_\u5510DM-p",
+    "Name": "\u8F85\u52A9\u7535\u6C14/\u591A\u5A92\u4F53",
+    "Icon": "fa-bolt",
+    "VehicleCode": "\u5510DM-p",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_\u79E6PLUS-DM-i",
+    "Name": "\u9AD8\u538B\u7535\u6C60/\u7535\u673A/\u7535\u63A7",
+    "Icon": "fa-battery-full",
+    "VehicleCode": "\u79E6PLUS-DM-i",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_\u79E6PLUS-DM-i",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "\u79E6PLUS-DM-i",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_\u79E6PLUS-DM-i",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "\u79E6PLUS-DM-i",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_\u79E6PLUS-DM-i",
+    "Name": "\u8F85\u52A9\u7535\u6C14/\u591A\u5A92\u4F53",
+    "Icon": "fa-bolt",
+    "VehicleCode": "\u79E6PLUS-DM-i",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_\u79E6PLUS-EV",
+    "Name": "\u9AD8\u538B\u7535\u6C60/\u7535\u673A/\u7535\u63A7",
+    "Icon": "fa-battery-full",
+    "VehicleCode": "\u79E6PLUS-EV",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_\u79E6PLUS-EV",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "\u79E6PLUS-EV",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_\u79E6PLUS-EV",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "\u79E6PLUS-EV",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_\u79E6PLUS-EV",
+    "Name": "\u8F85\u52A9\u7535\u6C14/\u591A\u5A92\u4F53",
+    "Icon": "fa-bolt",
+    "VehicleCode": "\u79E6PLUS-EV",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_BYD7003BEVA3",
+    "Name": "\u9AD8\u538B\u7535\u6C60/\u7535\u673A/\u7535\u63A7",
+    "Icon": "fa-battery-full",
+    "VehicleCode": "BYD7003BEVA3",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_BYD7003BEVA3",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D82",
+    "Icon": "fa-gears",
+    "VehicleCode": "BYD7003BEVA3",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2026-02-22T02:10:02.5938321Z"
+  },
+  {
+    "Id": "m3_BYD7003BEVA3",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "BYD7003BEVA3",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_BYD7003BEVA3",
+    "Name": "\u8F85\u52A9\u7535\u6C14/\u591A\u5A92\u4F53",
+    "Icon": "fa-bolt",
+    "VehicleCode": "BYD7003BEVA3",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_TZ200XSQ",
+    "Name": "\u9AD8\u538B\u7535\u6C60/\u7535\u673A/\u7535\u63A7",
+    "Icon": "fa-battery-full",
+    "VehicleCode": "TZ200XSQ",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_TZ200XSQ",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "TZ200XSQ",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_TZ200XSQ",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "TZ200XSQ",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_TZ200XSQ",
+    "Name": "\u8F85\u52A9\u7535\u6C14/\u591A\u5A92\u4F53",
+    "Icon": "fa-bolt",
+    "VehicleCode": "TZ200XSQ",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_TZ200XYM",
+    "Name": "\u9AD8\u538B\u7535\u6C60/\u7535\u673A/\u7535\u63A7",
+    "Icon": "fa-battery-full",
+    "VehicleCode": "TZ200XYM",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_TZ200XYM",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "TZ200XYM",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_TZ200XYM",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "TZ200XYM",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_TZ200XYM",
+    "Name": "\u8F85\u52A9\u7535\u6C14/\u591A\u5A92\u4F53",
+    "Icon": "fa-bolt",
+    "VehicleCode": "TZ200XYM",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_DE7PNE",
+    "Name": "\u9AD8\u538B\u7535\u6C60/\u7535\u673A/\u7535\u63A7",
+    "Icon": "fa-battery-full",
+    "VehicleCode": "DE7PNE",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_DE7PNE",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "DE7PNE",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_DE7PNE",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "DE7PNE",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_DE7PNE",
+    "Name": "\u8F85\u52A9\u7535\u6C14/\u591A\u5A92\u4F53",
+    "Icon": "fa-bolt",
+    "VehicleCode": "DE7PNE",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_BYD7001BEVA1",
+    "Name": "\u9AD8\u538B\u7535\u6C60/\u7535\u673A/\u7535\u63A7",
+    "Icon": "fa-battery-full",
+    "VehicleCode": "BYD7001BEVA1",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_BYD7001BEVA1",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "BYD7001BEVA1",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_BYD7001BEVA1",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "BYD7001BEVA1",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_BYD7001BEVA1",
+    "Name": "\u8F85\u52A9\u7535\u6C14/\u591A\u5A92\u4F53",
+    "Icon": "fa-bolt",
+    "VehicleCode": "BYD7001BEVA1",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_WBX9BP",
+    "Name": "\u9AD8\u538B\u7535\u6C60/\u7535\u673A/\u7535\u63A7",
+    "Icon": "fa-battery-full",
+    "VehicleCode": "WBX9BP",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_WBX9BP",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "WBX9BP",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_WBX9BP",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "WBX9BP",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_WBX9BP",
+    "Name": "\u8F85\u52A9\u7535\u6C14/\u591A\u5A92\u4F53",
+    "Icon": "fa-bolt",
+    "VehicleCode": "WBX9BP",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_BYD7004BEV13",
+    "Name": "\u9AD8\u538B\u7535\u6C60/\u7535\u673A/\u7535\u63A7",
+    "Icon": "fa-battery-full",
+    "VehicleCode": "BYD7004BEV13",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_BYD7004BEV13",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "BYD7004BEV13",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_BYD7004BEV13",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "BYD7004BEV13",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_BYD7004BEV13",
+    "Name": "\u8F85\u52A9\u7535\u6C14/\u591A\u5A92\u4F53",
+    "Icon": "fa-bolt",
+    "VehicleCode": "BYD7004BEV13",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_BYD472QC",
+    "Name": "\u9AD8\u538B\u7535\u6C60/\u7535\u673A/\u7535\u63A7",
+    "Icon": "fa-battery-full",
+    "VehicleCode": "BYD472QC",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_BYD472QC",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "BYD472QC",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_BYD472QC",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "BYD472QC",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_BYD472QC",
+    "Name": "\u8F85\u52A9\u7535\u6C14/\u591A\u5A92\u4F53",
+    "Icon": "fa-bolt",
+    "VehicleCode": "BYD472QC",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_79QWVA",
+    "Name": "\u9AD8\u538B\u7535\u6C60/\u7535\u673A/\u7535\u63A7",
+    "Icon": "fa-battery-full",
+    "VehicleCode": "79QWVA",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_79QWVA",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "79QWVA",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_79QWVA",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "79QWVA",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_79QWVA",
+    "Name": "\u8F85\u52A9\u7535\u6C14/\u591A\u5A92\u4F53",
+    "Icon": "fa-bolt",
+    "VehicleCode": "79QWVA",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_JL473ZQ6",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "JL473ZQ6",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_JL473ZQ6",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "JL473ZQ6",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_JL473ZQ6",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "JL473ZQ6",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_JL473ZQ6",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "JL473ZQ6",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_JL473ZQ5",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "JL473ZQ5",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_JL473ZQ5",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "JL473ZQ5",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_JL473ZQ5",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "JL473ZQ5",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_JL473ZQ5",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "JL473ZQ5",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_JL473ZQ7",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "JL473ZQ7",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_JL473ZQ7",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "JL473ZQ7",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_JL473ZQ7",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "JL473ZQ7",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_JL473ZQ7",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "JL473ZQ7",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_JL478QEP",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "JL478QEP",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_JL478QEP",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "JL478QEP",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_JL478QEP",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "JL478QEP",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_JL478QEP",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "JL478QEP",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_JL473ZQ3",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "JL473ZQ3",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_JL473ZQ3",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "JL473ZQ3",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_JL473ZQ3",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "JL473ZQ3",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_JL473ZQ3",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "JL473ZQ3",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_JL473ZQ2",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "JL473ZQ2",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_JL473ZQ2",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "JL473ZQ2",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_JL473ZQ2",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "JL473ZQ2",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_JL473ZQ2",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "JL473ZQ2",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_JL486ZQ4",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "JL486ZQ4",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_JL486ZQ4",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "JL486ZQ4",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_JL486ZQ4",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "JL486ZQ4",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_JL486ZQ4",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "JL486ZQ4",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_F70-2.4T",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "F70-2.4T",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_F70-2.4T",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "F70-2.4T",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_F70-2.4T",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "F70-2.4T",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_F70-2.4T",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "F70-2.4T",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_F70-2.5T",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "F70-2.5T",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_F70-2.5T",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "F70-2.5T",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_F70-2.5T",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "F70-2.5T",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_F70-2.5T",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "F70-2.5T",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_GW4G15K",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "GW4G15K",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_GW4G15K",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "GW4G15K",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_GW4G15K",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "GW4G15K",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_GW4G15K",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "GW4G15K",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_GW4B15C",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "GW4B15C",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_GW4B15C",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "GW4B15C",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_GW4B15C",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "GW4B15C",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_GW4B15C",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "GW4B15C",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_GW4N20",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "GW4N20",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_GW4N20",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "GW4N20",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_GW4N20",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "GW4N20",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_GW4N20",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "GW4N20",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_GW4B15L",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "GW4B15L",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_GW4B15L",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "GW4B15L",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_GW4B15L",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "GW4B15L",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_GW4B15L",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "GW4B15L",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_GW4G15F",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "GW4G15F",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_GW4G15F",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "GW4G15F",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_GW4G15F",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "GW4G15F",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_GW4G15F",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "GW4G15F",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_GW4G15B",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "GW4G15B",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_GW4G15B",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "GW4G15B",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_GW4G15B",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "GW4G15B",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_GW4G15B",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "GW4G15B",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_GW4C20B",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "GW4C20B",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_GW4C20B",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "GW4C20B",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_GW4C20B",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "GW4C20B",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_GW4C20B",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "GW4C20B",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_GW4G15M",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "GW4G15M",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_GW4G15M",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "GW4G15M",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_GW4G15M",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "GW4G15M",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_GW4G15M",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "GW4G15M",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_E20CB",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "E20CB",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_E20CB",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "E20CB",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_E20CB",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "E20CB",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_E20CB",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "E20CB",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_E30Z",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "E30Z",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_E30Z",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "E30Z",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_E30Z",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "E30Z",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_E30Z",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "E30Z",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_GW6Z30",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "GW6Z30",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_GW6Z30",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "GW6Z30",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_GW6Z30",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "GW6Z30",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_GW6Z30",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "GW6Z30",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1_GW4D20M",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "GW4D20M",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m2_GW4D20M",
+    "Name": "\u4F20\u52A8\u7CFB\u7EDF/\u5E95\u76D8",
+    "Icon": "fa-gears",
+    "VehicleCode": "GW4D20M",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m3_GW4D20M",
+    "Name": "\u8F66\u8EAB",
+    "Icon": "fa-car-side",
+    "VehicleCode": "GW4D20M",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m4_GW4D20M",
+    "Name": "\u7535\u6C14",
+    "Icon": "fa-bolt",
+    "VehicleCode": "GW4D20M",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m1",
+    "Name": "\u5DE5\u5177/\u53D1\u52A8\u673A/\u71C3\u6CB9",
+    "Icon": "fa-wrench",
+    "VehicleCode": "*",
+    "IsDefault": false,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "m_21fb8f18_GW4C20B",
+    "Name": "\u65B0\u5927\u7C7B8888",
+    "Icon": "fa-box",
+    "VehicleCode": "GW4C20B",
+    "IsDefault": false,
+    "CreatedDate": "2026-02-22T03:58:17.5169735Z",
+    "LastUpdated": "2026-02-22T03:58:17.5169738Z"
+  }
+]

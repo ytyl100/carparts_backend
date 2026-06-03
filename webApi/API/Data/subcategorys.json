@@ -1,0 +1,1012 @@
+[
+  {
+    "Id": "dolphin_fb",
+    "Name": "\u524D\u4FDD\u9669\u6760\u53CA\u9644\u4EF6 Front bumper and accessories",
+    "Code": "8101(0001)",
+    "ParentId": "m3_BYD7004BEV13",
+    "Image": "/dolphin/page_38_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "dolphin_rb",
+    "Name": "\u540E\u4FDD\u9669\u6760\u53CA\u9644\u4EF6 Rear bumper and accessories",
+    "Code": "8201(0001)",
+    "ParentId": "m3_BYD7004BEV13",
+    "Image": "/dolphin/page_38_img_2.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "dolphin_el",
+    "Name": "\u8F66\u5916\u706F\u9970 Exterior lighting fixtures",
+    "Code": "8401(0001)",
+    "ParentId": "m3_BYD7004BEV13",
+    "Image": "/dolphin/page_39_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "dolphin_cc",
+    "Name": "\u5E95\u76D8\u4EF6 Chassis components",
+    "Code": "8105(0001)",
+    "ParentId": "m2_BYD7004BEV13",
+    "Image": "/dolphin/page_40_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "dolphin_va",
+    "Name": "\u8F66\u8EAB\u53CA\u9644\u4EF6 Vehicle body and accessories",
+    "Code": "8105(0001)",
+    "ParentId": "m3_BYD7004BEV13",
+    "Image": "/dolphin/page_42_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "han_fb",
+    "Name": "\u524D\u4FDD\u9669\u6760\u53CA\u9644\u4EF6 Front bumper and accessories",
+    "Code": "8101(0001)",
+    "ParentId": "m3_BYD7009BEV",
+    "Image": "/han_ev/page_9_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "han_rb",
+    "Name": "\u540E\u4FDD\u9669\u6760\u53CA\u9644\u4EF6 Rear bumper and accessories",
+    "Code": "8201(0001)",
+    "ParentId": "m3_BYD7009BEV",
+    "Image": "/han_ev/page_11_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "han_el",
+    "Name": "\u8F66\u5916\u706F\u9970 Exterior lighting fixtures",
+    "Code": "8401(0001)",
+    "ParentId": "m3_BYD7009BEV",
+    "Image": "/han_ev/page_11_img_2.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "han_cc",
+    "Name": "\u5E95\u76D8\u4EF6 Chassis components",
+    "Code": "8105(0001)",
+    "ParentId": "m2_BYD7009BEV",
+    "Image": "/han_ev/page_12_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "han_va",
+    "Name": "\u8F66\u8EAB\u53CA\u9644\u4EF6 Vehicle body and accessories",
+    "Code": "8105(0001)",
+    "ParentId": "m3_BYD7009BEV",
+    "Image": "/han_ev/page_15_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "qin_fb",
+    "Name": "\u524D\u4FDD\u9669\u6760\u53CA\u9644\u4EF6 Front bumper and accessories",
+    "Code": "8101(0001)",
+    "ParentId": "m3_\u79E6PLUS-DM-i",
+    "Image": "/qin_plus_ev/page_24_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "qin_rb",
+    "Name": "\u540E\u4FDD\u9669\u6760\u53CA\u9644\u4EF6 Rear bumper and accessories",
+    "Code": "8201(0001)",
+    "ParentId": "m3_\u79E6PLUS-DM-i",
+    "Image": "/qin_plus_ev/page_26_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "qin_el",
+    "Name": "\u8F66\u5916\u706F\u9970 Exterior lighting fixtures",
+    "Code": "8401(0001)",
+    "ParentId": "m3_\u79E6PLUS-DM-i",
+    "Image": "/qin_plus_ev/page_27_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "qin_cc",
+    "Name": "\u5E95\u76D8\u4EF6 Chassis components",
+    "Code": "8105(0001)",
+    "ParentId": "m2_\u79E6PLUS-DM-i",
+    "Image": "/qin_plus_ev/page_27_img_2.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "qin_va",
+    "Name": "\u8F66\u8EAB\u53CA\u9644\u4EF6 Vehicle body and accessories",
+    "Code": "8105(0001)",
+    "ParentId": "m3_\u79E6PLUS-DM-i",
+    "Image": "/qin_plus_ev/page_29_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "sea_fb",
+    "Name": "\u524D\u4FDD\u9669\u6760\u53CA\u9644\u4EF6 Front bumper and accessories",
+    "Code": "8101(0001)",
+    "ParentId": "m3_BYD7001BEVA1",
+    "Image": "/seagull/page_31_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "sea_rb",
+    "Name": "\u540E\u4FDD\u9669\u6760\u53CA\u9644\u4EF6 Rear bumper and accessories",
+    "Code": "8201(0001)",
+    "ParentId": "m3_BYD7001BEVA1",
+    "Image": "/seagull/page_32_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "sea_el",
+    "Name": "\u8F66\u5916\u706F\u9970 Exterior lighting fixtures",
+    "Code": "8401(0001)",
+    "ParentId": "m3_BYD7001BEVA1",
+    "Image": "/seagull/page_32_img_2.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "sea_cc",
+    "Name": "\u5E95\u76D8\u4EF6 Chassis components",
+    "Code": "8105(0001)",
+    "ParentId": "m2_BYD7001BEVA1",
+    "Image": "/seagull/page_33_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "sea_va",
+    "Name": "\u8F66\u8EAB\u53CA\u9644\u4EF6 Vehicle body and accessories",
+    "Code": "8105(0001)",
+    "ParentId": "m3_BYD7001BEVA1",
+    "Image": "/seagull/page_35_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "seal_fb",
+    "Name": "\u524D\u4FDD\u9669\u6760\u53CA\u9644\u4EF6 Front bumper and accessories",
+    "Code": "8101(0001)",
+    "ParentId": "m3_BYD472QC",
+    "Image": "/seal/page_44_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "seal_rb",
+    "Name": "\u540E\u4FDD\u9669\u6760\u53CA\u9644\u4EF6 Rear bumper and accessories",
+    "Code": "8201(0001)",
+    "ParentId": "m3_BYD472QC",
+    "Image": "/seal/page_45_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "seal_el",
+    "Name": "\u8F66\u5916\u706F\u9970 Exterior lighting fixtures",
+    "Code": "8401(0001)",
+    "ParentId": "m3_BYD472QC",
+    "Image": "/seal/page_45_img_2.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "seal_cc",
+    "Name": "\u5E95\u76D8\u4EF6 Chassis components",
+    "Code": "8105(0001)",
+    "ParentId": "m2_BYD472QC",
+    "Image": "/seal/page_46_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "seal_va",
+    "Name": "\u8F66\u8EAB\u53CA\u9644\u4EF6 Vehicle body and accessories",
+    "Code": "8105(0001)",
+    "ParentId": "m3_BYD472QC",
+    "Image": "/seal/page_47_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "song_fb",
+    "Name": "\u524D\u4FDD\u9669\u6760\u53CA\u9644\u4EF6 Front bumper and accessories",
+    "Code": "8101(0001)",
+    "ParentId": "m3_TZ200XYM",
+    "Image": "/song_plus_ev/page_17_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "song_rb",
+    "Name": "\u540E\u4FDD\u9669\u6760\u53CA\u9644\u4EF6 Rear bumper and accessories",
+    "Code": "8201(0001)",
+    "ParentId": "m3_TZ200XYM",
+    "Image": "/song_plus_ev/page_18_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "song_el",
+    "Name": "\u8F66\u5916\u706F\u9970 Exterior lighting fixtures",
+    "Code": "8401(0001)",
+    "ParentId": "m3_TZ200XYM",
+    "Image": "/song_plus_ev/page_19_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "song_cc",
+    "Name": "\u5E95\u76D8\u4EF6 Chassis components",
+    "Code": "8105(0001)",
+    "ParentId": "m2_TZ200XYM",
+    "Image": "/song_plus_ev/page_19_img_2.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "song_va",
+    "Name": "\u8F66\u8EAB\u53CA\u9644\u4EF6 Vehicle body and accessories",
+    "Code": "8105(0001)",
+    "ParentId": "m3_TZ200XYM",
+    "Image": "/song_plus_ev/page_22_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "yuan_fb_2022",
+    "Name": "\u524D\u4FDD\u9669\u6760\u53CA\u9644\u4EF6 Front bumper and accessories",
+    "Code": "8101(0001)",
+    "ParentId": "m3_BYD7003BEVA3",
+    "Image": "/yuan_plus/page_1_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "yuan_rb_2022",
+    "Name": "\u540E\u4FDD\u9669\u6760\u53CA\u9644\u4EF6 Rear bumper and accessories",
+    "Code": "8201(0001)",
+    "ParentId": "m3_BYD7003BEVA3",
+    "Image": "/yuan_plus/page_2_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "yuan_el_2022",
+    "Name": "\u8F66\u5916\u706F\u9970 Exterior lighting fixtures",
+    "Code": "8401(0001)",
+    "ParentId": "m3_BYD7003BEVA3",
+    "Image": "/yuan_plus/page_3_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "yuan_cc_2022",
+    "Name": "\u5E95\u76D8\u4EF6 Chassis components2",
+    "Code": "8105(000100)",
+    "ParentId": "m2_BYD7003BEVA3",
+    "Image": "/yuan_plus/page_4_img_10.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-02-23T03:09:21.3921261Z"
+  },
+  {
+    "Id": "yuan_va_2022",
+    "Name": "\u8F66\u8EAB\u53CA\u9644\u4EF6 Vehicle body and accessories",
+    "Code": "8105(0001)",
+    "ParentId": "m3_BYD7003BEVA3",
+    "Image": "/yuan_plus/page_7_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "changan_cs35_plus1",
+    "Name": "\u524D\u4FDD\u9669\u6760\u53CA\u9644\u4EF6 Front bumper and accessories",
+    "Code": "8101(0001)",
+    "ParentId": "m3_JL478QEP",
+    "Image": "",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "changan_cs35_plus2",
+    "Name": "\u540E\u4FDD\u9669\u6760\u53CA\u9644\u4EF6 Rear bumper and accessories",
+    "Code": "8201(0001)",
+    "ParentId": "m3_JL478QEP",
+    "Image": "",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "changan_cs35_plus3",
+    "Name": "\u8F66\u5916\u706F\u9970 Exterior lighting fixtures",
+    "Code": "8401(0001)",
+    "ParentId": "m3_JL478QEP",
+    "Image": "",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "changan_cs35_plus4",
+    "Name": "\u8F66\u8EAB\u53CA\u9644\u4EF6 Vehicle body and accessories",
+    "Code": "8105(0001)",
+    "ParentId": "m3_JL478QEP",
+    "Image": "",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "changan-uni-k1",
+    "Name": "\u524D\u4FDD\u9669\u6760\u53CA\u9644\u4EF6 Front bumper and accessories",
+    "Code": "8101(0001)",
+    "ParentId": "m3_JL478QEP",
+    "Image": "/Changan Uni-K/page_1_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "changan-uni-k2",
+    "Name": "\u540E\u4FDD\u9669\u6760\u53CA\u9644\u4EF6 Rear bumper and accessories",
+    "Code": "8201(0001)",
+    "ParentId": "m3_JL473ZQ6",
+    "Image": "/Changan Uni-K/page_1_img_2.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "changan-uni-k3",
+    "Name": "\u8F66\u5916\u706F\u9970 Exterior lighting fixtures",
+    "Code": "8401(0001)",
+    "ParentId": "m3_JL473ZQ6",
+    "Image": "/Changan Uni-K/page_1_img_3.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "Changan Uni-K4",
+    "Name": "\u8F66\u8EAB\u53CA\u9644\u4EF6 Vehicle body and accessories",
+    "Code": "8105(0001)",
+    "ParentId": "m3_JL473ZQ6",
+    "Image": "/Changan Uni-K/page_1_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "changan-uni-t1",
+    "Name": "\u524D\u4FDD\u9669\u6760\u53CA\u9644\u4EF6 Front bumper and accessories",
+    "Code": "8101(0001)",
+    "ParentId": "m3_JL473ZQ5",
+    "Image": "/Changan Uni-T/page_6_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "changan-uni-t2",
+    "Name": "\u540E\u4FDD\u9669\u6760\u53CA\u9644\u4EF6 Rear bumper and accessories",
+    "Code": "8201(0001)",
+    "ParentId": "m3_JL473ZQ5",
+    "Image": "/Changan Uni-T/page_6_img_2.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "changan-uni-t3",
+    "Name": "\u8F66\u5916\u706F\u9970 Exterior lighting fixtures",
+    "Code": "8401(0001)",
+    "ParentId": "m3_JL473ZQ5",
+    "Image": "/Changan Uni-T/page_6_img_3.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "changan-uni-t4",
+    "Name": "\u8F66\u8EAB\u53CA\u9644\u4EF6 Vehicle body and accessories",
+    "Code": "8105(0001)",
+    "ParentId": "m3_JL473ZQ5",
+    "Image": "/Changan Uni-T/page_6_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "changan-uni-v1",
+    "Name": "\u524D\u4FDD\u9669\u6760\u53CA\u9644\u4EF6 Front bumper and accessories",
+    "Code": "8101(0001)",
+    "ParentId": "m3_JL473ZQ7",
+    "Image": "/Changan Uni-T/page_6_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "changan-uni-v2",
+    "Name": "\u540E\u4FDD\u9669\u6760\u53CA\u9644\u4EF6 Rear bumper and accessories",
+    "Code": "8201(0001)",
+    "ParentId": "m3_JL473ZQ7",
+    "Image": "/Changan Uni-T/page_6_img_2.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "changan-uni-v3",
+    "Name": "\u8F66\u5916\u706F\u9970 Exterior lighting fixtures",
+    "Code": "8401(0001)",
+    "ParentId": "m3_JL473ZQ7",
+    "Image": "/Changan Uni-T/page_6_img_3.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "changan-uni-v4",
+    "Name": "\u8F66\u8EAB\u53CA\u9644\u4EF6 Vehicle body and accessories",
+    "Code": "8105(0001)",
+    "ParentId": "m3_JL473ZQ7",
+    "Image": "/Changan Uni-T/page_6_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-haval-Jolin01",
+    "Name": "\u524D\u4FDD\u9669\u6760\u53CA\u9644\u4EF6 Front bumper and accessories",
+    "Code": "8101(0001)",
+    "ParentId": "m3_GW4G15K",
+    "Image": "/haval_jolion/page_1_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-haval-Jolin02",
+    "Name": "\u540E\u4FDD\u9669\u6760\u53CA\u9644\u4EF6 Rear bumper and accessories",
+    "Code": "8201(0001)",
+    "ParentId": "m3_GW4G15K",
+    "Image": "/haval_jolion/page_2_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-haval-Jolin03",
+    "Name": "\u8F66\u5916\u706F\u9970 Exterior lighting fixtures",
+    "Code": "8401(0001)",
+    "ParentId": "m3_GW4G15K",
+    "Image": "/haval_jolion/page_4_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-haval-Jolin04",
+    "Name": "\u8F66\u8EAB\u53CA\u9644\u4EF6 Vehicle body and accessories",
+    "Code": "8501(0001)",
+    "ParentId": "m3_GW4G15K",
+    "Image": "/haval_jolion/page_4_img_2.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-haval-Jolin05",
+    "Name": "\u5E95\u76D8\u7CFB\u7EDF Chassis components",
+    "Code": "8601(0001)",
+    "ParentId": "m2_GW4G15K",
+    "Image": "/haval_jolion/page_7_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-haval-Jolin06",
+    "Name": "\u53D1\u52A8\u673A\u7CFB\u7EDF Engine system",
+    "Code": "8701(0001)",
+    "ParentId": "m1_GW4G15K",
+    "Image": "/haval_jolion/page_10_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-haval-Jolin07",
+    "Name": "\u5B89\u5168\u53CA\u7535\u6C14\u7CFB\u7EDF Safety \u0026 Electrical system",
+    "Code": "8801(0001)",
+    "ParentId": "m4_GW4G15K",
+    "Image": "/haval_jolion/page_13_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-haval-dargro-01",
+    "Name": "\u524D\u540E\u4FDD\u9669\u6760\u53CA\u9644\u4EF6 Front and rear bumpers and accessories",
+    "Code": "8101(0001)",
+    "ParentId": "m3_GW4N20",
+    "Image": "/haval_dargro/page_45_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-haval-dargro-02",
+    "Name": "\u7167\u660E\u7CFB\u7EDF Lighting System",
+    "Code": "8401(0001)",
+    "ParentId": "m3_GW4N20",
+    "Image": "/haval_dargro/page_46_img_7.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-haval-dargro-03",
+    "Name": "\u8F66\u8EAB\u53CA\u9644\u4EF6 Vehicle body and accessories",
+    "Code": "8501(0001)",
+    "ParentId": "m3_GW4N20",
+    "Image": "/haval_dargro/page_47_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-haval-dargro-04",
+    "Name": "\u5E95\u76D8\u7CFB\u7EDF Chassis system",
+    "Code": "8601(0001)",
+    "ParentId": "m2_GW4N20",
+    "Image": "/haval_dargro/page_48_img_14.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-haval-dargro-05",
+    "Name": "\u53D1\u52A8\u673A\u7CFB\u7EDF Engine system",
+    "Code": "8701(0001)",
+    "ParentId": "m1_GW4N20",
+    "Image": "/haval_dargro/page_50_img_14.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-haval-dargro-06",
+    "Name": "\u5B89\u5168\u53CA\u7535\u6C14\u7CFB\u7EDF Safety \u0026 Electrical system",
+    "Code": "8801(0001)",
+    "ParentId": "m4_GW4N20",
+    "Image": "/haval_dargro/page_51_img_3.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-haval-H2-01",
+    "Name": "\u524D\u540E\u4FDD\u9669\u6760\u53CA\u9644\u4EF6 Front and rear bumpers and accessories",
+    "Code": "8101(0001)",
+    "ParentId": "m3_GW4G15F",
+    "Image": "/haval_h2/page_24_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-haval-H2-02",
+    "Name": "\u7167\u660E\u7CFB\u7EDF Lighting System",
+    "Code": "8401(0001)",
+    "ParentId": "m3_GW4G15F",
+    "Image": "/haval_h2/page_24_img_3.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-haval-H2-03",
+    "Name": "\u8F66\u8EAB\u53CA\u9644\u4EF6 Vehicle body and accessories",
+    "Code": "8501(0001)",
+    "ParentId": "m3_GW4G15F",
+    "Image": "/haval_h2/page_24_img_13.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-haval-H2-04",
+    "Name": "\u5E95\u76D8\u7CFB\u7EDF Chassis system",
+    "Code": "8601(0001)",
+    "ParentId": "m2_GW4G15F",
+    "Image": "/haval_h2/page_27_img_5.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-haval-H2-05",
+    "Name": "\u53D1\u52A8\u673A\u7CFB\u7EDF Engine system",
+    "Code": "8701(0001)",
+    "ParentId": "m1_GW4G15F",
+    "Image": "/haval_h2/page_26_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-haval-H9-01",
+    "Name": "\u524D\u540E\u4FDD\u9669\u6760\u53CA\u9644\u4EF6 Front and rear bumpers and accessories",
+    "Code": "8101(0001)",
+    "ParentId": "m3_GW4C20B",
+    "Image": "/haval_h9/page_30_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-haval-H9-02",
+    "Name": "\u7167\u660E\u7CFB\u7EDF Lighting System",
+    "Code": "8401(0001)",
+    "ParentId": "m3_GW4C20B",
+    "Image": "/haval_h9/page_30_img_7.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-haval-H9-03",
+    "Name": "\u8F66\u8EAB\u53CA\u9644\u4EF6 Vehicle body and accessories",
+    "Code": "8501(0001)",
+    "ParentId": "m3_GW4C20B",
+    "Image": "/haval_h9/page_31_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-haval-H9-04",
+    "Name": "\u5E95\u76D8\u7CFB\u7EDF Chassis system",
+    "Code": "8601(0001)",
+    "ParentId": "m2_GW4C20B",
+    "Image": "/haval_h9/page_33_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-haval-H9-05",
+    "Name": "\u53D1\u52A8\u673A\u7CFB\u7EDF Engine system",
+    "Code": "8701(0001)",
+    "ParentId": "m1_GW4C20B",
+    "Image": "/haval_h9/page_33_img_101.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-02-23T03:43:20.653488Z"
+  },
+  {
+    "Id": "GWM-haval-H9-06",
+    "Name": "\u7A7A\u8C03\u53CA\u7535\u6C14\u7CFB\u7EDF Air conditioning \u0026 Electrical system",
+    "Code": "8801(0001)",
+    "ParentId": "m4_GW4C20B",
+    "Image": "/haval_h9/page_33_img_8.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-haval-M6-01",
+    "Name": "\u524D\u540E\u4FDD\u9669\u6760\u53CA\u9644\u4EF6 Front and rear bumpers and accessories",
+    "Code": "8101(0001)",
+    "ParentId": "m3_GW4G15M",
+    "Image": "/haval_m6/page_37_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-haval-M6-02",
+    "Name": "\u7167\u660E\u7CFB\u7EDF Lighting System",
+    "Code": "8401(0001)",
+    "ParentId": "m3_GW4G15M",
+    "Image": "/haval_m6/page_38_img_6.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-haval-M6-03",
+    "Name": "\u8F66\u8EAB\u53CA\u9644\u4EF6 Vehicle body and accessories",
+    "Code": "8501(0001)",
+    "ParentId": "m3_GW4G15M",
+    "Image": "/haval_m6/page_39_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-haval-M6-04",
+    "Name": "\u5E95\u76D8\u7CFB\u7EDF Chassis system",
+    "Code": "8601(0001)",
+    "ParentId": "m2_GW4G15M",
+    "Image": "/haval_m6/page_41_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-haval-M6-05",
+    "Name": "\u53D1\u52A8\u673A\u7CFB\u7EDF Engine system",
+    "Code": "8701(0001)",
+    "ParentId": "m1_GW4G15M",
+    "Image": "/haval_m6/page_42_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-steed-w5-01",
+    "Name": "\u524D\u540E\u4FDD\u9669\u6760\u53CA\u9644\u4EF6 Front and rear bumpers and accessories",
+    "Code": "8101(0001)",
+    "ParentId": "m3_GW4D20M",
+    "Image": "/steed_w5/page_74_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-steed-w5-02",
+    "Name": "\u7167\u660E\u7CFB\u7EDF Lighting System",
+    "Code": "8401(0001)",
+    "ParentId": "m3_GW4D20M",
+    "Image": "/steed_w5/page_75_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-steed-w5-03",
+    "Name": "\u8F66\u8EAB\u53CA\u9644\u4EF6 Vehicle body and accessories",
+    "Code": "8501(0001)",
+    "ParentId": "m3_GW4D20M",
+    "Image": "/steed_w5/page_76_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-steed-w5-04",
+    "Name": "\u5E95\u76D8\u7CFB\u7EDF Chassis system",
+    "Code": "8601(0001)",
+    "ParentId": "m2_GW4D20M",
+    "Image": "/steed_w5/page_77_img_4.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-steed-w7-01",
+    "Name": "\u524D\u540E\u4FDD\u9669\u6760\u53CA\u9644\u4EF6 Front and rear bumpers and accessories",
+    "Code": "8101(0001)",
+    "ParentId": "m3_GW4C20B",
+    "Image": "/steed_w7/page_81_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-steed-w7-02",
+    "Name": "\u7167\u660E\u7CFB\u7EDF Lighting System",
+    "Code": "8401(0001)",
+    "ParentId": "m3_GW4C20B",
+    "Image": "/steed_w7/page_82_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-steed-w7-03",
+    "Name": "\u8F66\u8EAB\u53CA\u9644\u4EF6 Vehicle body and accessories",
+    "Code": "8501(0001)",
+    "ParentId": "m3_GW4C20B",
+    "Image": "/steed_w7/page_82_img_10.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-steed-w7-04",
+    "Name": "\u5E95\u76D8\u7CFB\u7EDF Chassis system",
+    "Code": "8601(0001)",
+    "ParentId": "m2_GW4C20B",
+    "Image": "/steed_w7/page_84_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-tank300-01",
+    "Name": "\u524D\u540E\u4FDD\u9669\u6760\u53CA\u9644\u4EF6 Front and rear bumpers and accessories",
+    "Code": "8101(0001)",
+    "ParentId": "m3_E20CB",
+    "Image": "/tank300/page_54_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-tank300-02",
+    "Name": "\u7167\u660E\u7CFB\u7EDF Lighting System",
+    "Code": "8401(0001)",
+    "ParentId": "m3_E20CB",
+    "Image": "/tank300/page_55_img_6.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-tank300-03",
+    "Name": "\u8F66\u8EAB\u53CA\u9644\u4EF6 Vehicle body and accessories",
+    "Code": "8501(0001)",
+    "ParentId": "m3_E20CB",
+    "Image": "/tank300/page_55_img_12.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-tank300-04",
+    "Name": "\u5E95\u76D8\u7CFB\u7EDF Chassis system",
+    "Code": "8601(0001)",
+    "ParentId": "m2_E20CB",
+    "Image": "/tank300/page_59_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-tank300-05",
+    "Name": "\u53D1\u52A8\u673A\u7CFB\u7EDF Engine system",
+    "Code": "8701(0001)",
+    "ParentId": "m1_E20CB",
+    "Image": "/tank300/page_61_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-tank300-06",
+    "Name": "\u5B89\u5168\u53CA\u7535\u6C14\u7CFB\u7EDF Safety \u0026 Electrical system",
+    "Code": "8801(0001)",
+    "ParentId": "m4_E20CB",
+    "Image": "/tank300/page_60_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-tank500-01",
+    "Name": "\u524D\u540E\u4FDD\u9669\u6760\u53CA\u9644\u4EF6 Front and rear bumpers and accessories",
+    "Code": "8101(0001)",
+    "ParentId": "m3_E30Z",
+    "Image": "/tank500/page_65_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-tank500-02",
+    "Name": "\u7167\u660E\u7CFB\u7EDF Lighting System",
+    "Code": "8401(0001)",
+    "ParentId": "m3_E30Z",
+    "Image": "/tank500/page_67_img_1.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-tank500-03",
+    "Name": "\u8F66\u8EAB\u53CA\u9644\u4EF6 Vehicle body and accessories",
+    "Code": "8501(0001)",
+    "ParentId": "m3_E30Z",
+    "Image": "/tank500/page_67_img_9.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-tank500-04",
+    "Name": "\u5E95\u76D8\u7CFB\u7EDF Chassis system",
+    "Code": "8601(0001)",
+    "ParentId": "m2_E30Z",
+    "Image": "/tank500/page_69_img_4.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-tank500-05",
+    "Name": "\u53D1\u52A8\u673A\u7CFB\u7EDF Engine system",
+    "Code": "8701(0001)",
+    "ParentId": "m1_E30Z",
+    "Image": "/tank500/page_69_img_33.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "GWM-tank500-06",
+    "Name": "\u5B89\u5168\u53CA\u7535\u6C14\u7CFB\u7EDF Safety \u0026 Electrical system",
+    "Code": "8801(0001)",
+    "ParentId": "m4_E30Z",
+    "Image": "/tank500/page_69_img_34.png",
+    "IsDefault": false,
+    "CreatedDate": "2025-01-01T00:00:00Z",
+    "LastUpdated": "2026-01-01T00:00:00Z"
+  },
+  {
+    "Id": "sub_2d0ebb60",
+    "Name": "\u65B0\u5B50\u7EC46667788",
+    "Code": "0000(8888)",
+    "ParentId": "m_21fb8f18_GW4C20B",
+    "Image": "https://picsum.photos/seed/new/300/300",
+    "IsDefault": false,
+    "CreatedDate": "2026-02-22T04:01:45.3448463Z",
+    "LastUpdated": "2026-02-22T04:01:45.3448463Z"
+  }
+]
