@@ -340,13 +340,19 @@ namespace CarPartsInventory.API.Models
     // DTO for search
     public class PartSearchRequest
     {
+        public string? Keyword { get; set; }
+        
         public string? SubCategoryId { get; set; }
 
+        // 🆕 新增：按vehicleCode搜索（通过主类目链路）
+        public string? VehicleCode { get; set; }
+        
         // 🆕 新增：按零部件编码搜索
         public string? PartsNumber { get; set; }
 
         public string? OeNumber { get; set; }
         public string? StandardName { get; set; }
+        public string? OriginalName { get; set; }
         public string? Position { get; set; }
         public decimal? MinPrice { get; set; }
         public decimal? MaxPrice { get; set; }
@@ -360,6 +366,9 @@ namespace CarPartsInventory.API.Models
 
         public string? ModelCode { get; set; }
         public string? ReplacementOe { get; set; }
+        
+        public int PageIndex { get; set; } = 1;
+        public int PageSize { get; set; } = 100;
     }
 
     // DTO for querying replacement parts

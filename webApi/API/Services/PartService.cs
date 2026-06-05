@@ -56,9 +56,36 @@ namespace CarPartsInventory.API.Services
             var allParts = await _jsonFileService.GetAllAsync();
             var query = allParts.AsEnumerable();
 
+            // 🆕 新增：按关键词搜索（匹配 OeNumber、StandardName、OriginalName、PartsNumber）
+            if (!string.IsNullOrEmpty(request.Keyword))
+            {
+                var keyword = request.Keyword.ToLower();
+                query = query.Where(p => 
+                    p.OeNumber.Contains(keyword, StringComparison.OrdinalIgnoreCase) ||
+                    p.StandardName.Contains(keyword, StringComparison.OrdinalIgnoreCase) ||
+                    p.OriginalName.Contains(keyword, StringComparison.OrdinalIgnoreCase) ||
+                    p.PartsNumber.Contains(keyword, StringComparison.OrdinalIgnoreCase));
+            }
+
+            // 🆕 新增：按 vehicleCode 搜索（通过主类目链路）
+            // 注意：这需要先获取主类目列表，再关联到配件
+            if (!string.IsNullOrEmpty(request.VehicleCode))
+            {
+                // 由于 Part 数据中没有直接存储 vehicleCode，需要通过 AdaptableModels.ModelCode 匹配
+                // 或者通过 SubCategoryId 关联到主类目
+                // 这里简化处理：使用 AdaptableModels.ModelCode 匹配
+                query = query.Where(p => p.AdaptableModels.Any(am => 
+                    am.ModelCode.Contains(request.VehicleCode, StringComparison.OrdinalIgnoreCase)));
+            }
+
             if (!string.IsNullOrEmpty(request.SubCategoryId))
             {
                 query = query.Where(p => p.SubCategoryId == request.SubCategoryId);
+            }
+
+            if (!string.IsNullOrEmpty(request.PartsNumber))
+            {
+                query = query.Where(p => p.PartsNumber.Contains(request.PartsNumber, StringComparison.OrdinalIgnoreCase));
             }
 
             if (!string.IsNullOrEmpty(request.OeNumber))
@@ -69,6 +96,11 @@ namespace CarPartsInventory.API.Services
             if (!string.IsNullOrEmpty(request.StandardName))
             {
                 query = query.Where(p => p.StandardName.Contains(request.StandardName, StringComparison.OrdinalIgnoreCase));
+            }
+
+            if (!string.IsNullOrEmpty(request.OriginalName))
+            {
+                query = query.Where(p => p.OriginalName.Contains(request.OriginalName, StringComparison.OrdinalIgnoreCase));
             }
 
             if (!string.IsNullOrEmpty(request.Position))
@@ -107,7 +139,15 @@ namespace CarPartsInventory.API.Services
                     rp.OriginalOe.Contains(request.ReplacementOe, StringComparison.OrdinalIgnoreCase)));
             }
 
-            return query.ToList();
+            // 分页处理
+            var totalCount = query.Count();
+            var skip = (request.PageIndex - 1) * request.PageSize;
+            var pagedParts = query.Skip(skip).Take(request.PageSize).ToList();
+
+            _logger.LogInformation("Search completed: keyword={Keyword}, vehicleCode={VehicleCode}, total={Total}, returned={Returned}",
+                request.Keyword, request.VehicleCode, totalCount, pagedParts.Count);
+
+            return pagedParts;
         }
 
         public async Task<Part> CreateAsync(CreatePartRequest request)
