@@ -297,6 +297,7 @@ public class UserService : IUserService
             Id = user.Id,
             UserId = user.UserId,
             Name = user.Name,
+            Email = user.Email,                      // 添加邮箱映射
             Status = user.Status,
             RegisteredAt = user.RegisteredAt,
             ApprovedBy = user.ApprovedBy,

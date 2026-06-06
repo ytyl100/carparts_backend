@@ -10,6 +10,7 @@ public class UserDto
     public Guid Id { get; set; }
     public string UserId { get; set; } = string.Empty;
     public string Name { get; set; } = string.Empty;
+    public string? Email { get; set; }                     // 添加邮箱字段
     public UserStatus Status { get; set; }
     public DateTime RegisteredAt { get; set; }
     public string? ApprovedBy { get; set; }
