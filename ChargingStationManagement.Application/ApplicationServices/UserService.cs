@@ -259,7 +259,7 @@ public class UserService : IUserService
         if (existingUser != null)
             throw new InvalidOperationException($"User with UserId {createUserDto.UserId} already exists");
 
-        var user = new User(createUserDto.UserId, createUserDto.Name);
+        var user = new User(createUserDto.UserId, createUserDto.Name, createUserDto.Email);
         
         if (!string.IsNullOrEmpty(createUserDto.Password))
         {
@@ -288,6 +288,23 @@ public class UserService : IUserService
         _logger.LogInformation("User {UserId} deleted", user.UserId);
         
         return true;
+    }
+
+    public async Task<UserDto> UpdateUserEmailAsync(Guid userId, UpdateUserEmailRequest request)
+    {
+        var user = await _userRepository.GetByIdAsync(userId);
+        if (user == null)
+            throw new KeyNotFoundException($"User with ID {userId} not found");
+
+        user.SetEmail(request.Email);
+        await _userRepository.UpdateAsync(user);
+
+        _logger.LogInformation("User {UserId} email updated to {Email}", user.UserId, request.Email ?? "null");
+
+        var updatedUser = await _userRepository.GetByIdAsync(userId,
+            query => ((IQueryable<User>)query).Include(u => u.UserRoles).ThenInclude(ur => ur.Role));
+
+        return MapToDto(updatedUser!);
     }
 
     private static UserDto MapToDto(User user)

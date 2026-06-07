@@ -23,6 +23,7 @@ public class CreateUserDto
 {
     public string UserId { get; set; } = string.Empty;
     public string Name { get; set; } = string.Empty;
+    public string? Email { get; set; }  // 添加邮箱字段
     public string? Password { get; set; }
 }
 
@@ -80,4 +81,10 @@ public class UpdateRoleRequest
 {
     public string Name { get; set; } = string.Empty;
     public string Description { get; set; } = string.Empty;
+}
+
+// ============= Update User Email DTO =============
+public class UpdateUserEmailRequest
+{
+    public string? Email { get; set; }
 }

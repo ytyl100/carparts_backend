@@ -382,6 +382,35 @@ public class UsersController : ControllerBase
     }
 
     /// <summary>
+    /// Update user email
+    /// </summary>
+    [HttpPost("{userId:guid}/email")]
+    [Authorize(Roles = "admin,manager")]
+    public async Task<ActionResult<UserDto>> UpdateUserEmail(
+        Guid userId,
+        [FromBody] UpdateUserEmailRequest request)
+    {
+        try
+        {
+            var user = await _userService.UpdateUserEmailAsync(userId, request);
+            return Ok(new
+            {
+                message = "User email updated successfully",
+                user
+            });
+        }
+        catch (KeyNotFoundException ex)
+        {
+            return NotFound(new { message = ex.Message });
+        }
+        catch (Exception ex)
+        {
+            _logger.LogError(ex, "Error updating email for user {UserId}", userId);
+            return StatusCode(500, new { message = "An error occurred while updating user email" });
+        }
+    }
+
+    /// <summary>
     /// Debug endpoint - Get claims
     /// </summary>
     [HttpGet("_debug/claims")]

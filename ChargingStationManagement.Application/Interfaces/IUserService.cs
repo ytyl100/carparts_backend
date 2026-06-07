@@ -24,4 +24,7 @@ public interface IUserService
     // User creation
     Task<UserDto> CreateUserAsync(CreateUserDto createUserDto);
     Task<bool> DeleteUserAsync(Guid userId);
+
+    // Update user email
+    Task<UserDto> UpdateUserEmailAsync(Guid userId, UpdateUserEmailRequest request);
 }

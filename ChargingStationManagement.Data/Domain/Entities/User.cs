@@ -8,6 +8,7 @@ public class User
     public Guid Id { get; private set; }
     public string UserId { get; private set; } = null!;
     public string Name { get; private set; } = null!;
+    public string? Email { get; private set; }  // 邮箱字段
 
     // New fields for approval and status
     public UserStatus Status { get; private set; }
@@ -23,13 +24,19 @@ public class User
     public string? PasswordSalt { get; private set; }
     private User() { } // EF Core
 
-    public User(string userId, string name)
+    public User(string userId, string name, string? email = null)
     {
         Id = Guid.NewGuid();
         UserId = userId;
         Name = name;
+        Email = email;
         Status = UserStatus.Pending;   // New users start as pending
         RegisteredAt = DateTime.UtcNow;
+    }
+
+    public void SetEmail(string? email)
+    {
+        Email = email;
     }
 
     // Methods for status changes
